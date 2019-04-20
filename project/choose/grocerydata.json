@@ -5,72 +5,81 @@
     "species": "Fruit",
     "characteristic": "",
     "photo": "../image/imagefruit/apple.jpg",
-    "add":"content/fruitcontent/fruitcontent.html",
-    "id":"a"
+    "add":"../content/fruitcontent/fruitcontent.html",
+    "id":"a",
+    "value":"0"
   },
   {
     "name": "Apricot",
     "species": "Fruit",
     "characteristic": "",
     "photo": "../image/imagefruit/apricot.jpg",
-    "add":"content/fruitcontent/fruitcontent.html",
-    "id":"b"
+    "add":"../content/fruitcontent/fruitcontent.html",
+    "id":"b",
+    "value":"1"
   },
   {
     "name": "Banana",
     "species": "Fruit",
     "characteristic": "",
     "photo": "../image/imagefruit/banana.jpg",
-    "add":"content/fruitcontent/fruitcontent.html",
-    "id":"c"
+    "add":"../content/fruitcontent/fruitcontent.html",
+    "id":"c",
+    "value":"2"
   },
   {
     "name": "Grapefruit",
     "species": "Fruit",
     "characteristic":"",
     "photo": "../image/imagefruit/grapefruit.jpg",
-    "add":"content/fruitcontent/fruitcontent.html",
-    "id":"d"
+    "add":"../content/fruitcontent/fruitcontent.html",
+    "id":"d",
+    "value":"3"
   },
   {
     "name": "Kiwi",
     "species": "Fruit",
     "characteristic": "",
     "photo": "../image/imagefruit/kiwi.jpg",
-    "add":"content/fruitcontent/fruitcontentt.html",
-    "id":"e"
+    "add":"../content/fruitcontent/fruitcontentt.html",
+    "id":"e",
+    "value":"4"
   },
   {
     "name": "Nectarine",
     "species": "Fruit",
     "characteristic": "",
     "photo": "../image/imagefruit/nectarine.jpg",
-    "add":"content/fruitcontent/fruitcontent.html",
-    "id":"f"
+    "add":"../content/fruitcontent/fruitcontent.html",
+    "id":"f",
+    "value":"5"
   },
   {
     "name": "Oranges",
     "species": "Fruit",
     "characteristic": "",
     "photo": "../image/imagefruit/oranges.jpg",
-    "add":"content/fruitcontent/fruitcontent.html",
-    "id":"g"
+    "add":"../content/fruitcontent/fruitcontent.html",
+    "id":"g",
+    "value":"6"
   },
   {
     "name": "Peach",
     "species": "Fruit",
     "characteristic": "",
     "photo": "../image/imagefruit/peach.jpg",
-    "add":"content/fruitcontent/fruitcontent.html",
-    "id":"h"
+    "add":"../content/fruitcontent/fruitcontent.html",
+    "id":"h",
+    "value":"7"
   },
   {
     "name": "Pear",
     "species": "Fruit",
     "characteristic": "",
     "photo": "../image/imagefruit/pear.jpg",
-    "add":"content/fruitcontent/fruitcontent.html",
-    "id":"i"
+    "add":"../content/fruitcontent/fruitcontent.html",
+    "id":"i",
+    "value":"8"
 
   },
   {
@@ -78,87 +87,99 @@
     "species": "Fruit",
     "characteristic": "",
     "photo": "../image/imagefruit/strawberry.jpg",
-    "add":"content/fruitcontent/fruitcontent.html",
-    "id":"j"
+    "add":"../content/fruitcontent/fruitcontent.html",
+    "id":"j",
+    "value":"9"
   }],
   [{
       "name": "Butter",
       "species": "dairy",
       "characteristic": "",
       "photo": "../image/imagedairy/butter.jpg",
-      "add":"content/dairycontent/dairycontent.html",
-      "id":"a"
+      "add":"../content/dairycontent/dairycontent.html",
+      "id":"a",
+      "value":"0"
     },
     {
       "name": "Butterfat",
       "species": "dairy",
       "characteristic": "",
       "photo": "../image/imagedairy/butterfat.jpg",
-      "add":"content/dairycontent/dairycontent.html",
-      "id":"b"
+      "add":"../content/dairycontent/dairycontent.html",
+      "id":"b",
+      "value":"1"
     },
     {
       "name": "Cheese",
       "species": "dairy",
       "characteristic": "",
       "photo": "../image/imagedairy/cheese.jpg",
-      "add":"content/dairycontent/dairycontent.html",
-      "id":"c"
+      "add":"../content/dairycontent/dairycontent.html",
+      "id":"c",
+      "value":"2"
     },
     {
         "name": "Cottage",
       "species": "dairy",
       "characteristic":"",
       "photo": "../image/imagedairy/cottage.jpg",
-      "add":"content/dairycontent/dairycontent.html",
-      "id":"d"
+      "add":"../content/dairycontent/dairycontent.html",
+      "id":"d",
+      "value":"3"
     },
     {
       "name": "Custard",
       "species": "dairy",
       "characteristic": "",
       "photo": "../image/imagedairy/custard.jpg",
-      "add":"content/dairycontent/dairycontent.html",
-      "id":"e"
+      "add":"../content/dairycontent/dairycontent.html",
+      "id":"e",
+      "value":"4"
+
     },
     {
       "name": "Milk",
       "species": "dairy",
       "characteristic": "",
       "photo": "../image/imagedairy/milk.jpg",
-      "add":"content/dairycontent/dairycontent.html",
-      "id":"f"
+      "add":"../content/dairycontent/dairycontent.html",
+      "id":"f",
+      "value":"5"
     },
     {
       "name": "Sourcecream",
       "species": "dairy",
       "characteristic": "",
       "photo": "../image/imagedairy/sour cream.jpg",
-      "add":"content/dairycontent/dairycontent.html",
-      "id":"g"
+      "add":"../content/dairycontent/dairycontent.html",
+      "id":"g",
+      "value":"6"
     },
     {
       "name": "Yogurt",
       "species": "dairy",
       "characteristic": "",
       "photo": "../image/imagedairy/yogurt.jpg",
-      "add":"content/dairycontent/dairycontent.html",
-      "id":"h"
+      "add":"../content/dairycontent/dairycontent.html",
+      "id":"h",
+      "value":"7"
     },
     {
       "name": "BlueCheese",
       "species": "dairy",
       "characteristic": "",
       "photo": "../image/imagedairy/blueCheese.jpg",
-      "add":"content/dairycontent/dairycontentt.html",
-      "id":"i"
+      "add":"../content/dairycontent/dairycontentt.html",
+      "id":"i",
+      "value":"8"
     },
     {
       "name": "Collemeriers",
       "species": "dairy",
       "characteristic": "",
       "photo": "../image/imagedairy/collemeriers.jpg",
-      "add":"content/dairycontent/dairycontent.html",
-      "id":"j"
+      "add":"../content/dairycontent/dairycontent.html",
+      "id":"j",
+      "value":"9"
     }]
 ]
