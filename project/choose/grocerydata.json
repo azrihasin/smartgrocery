@@ -1,0 +1,164 @@
+[
+  [
+  {
+    "name": "Apple",
+    "species": "Fruit",
+    "characteristic": "",
+    "photo": "choose/imagefruit/apple.jpg",
+    "add":"content/fruitcontent/fruitcontent.html",
+    "id":"a"
+  },
+  {
+    "name": "Apricot",
+    "species": "Fruit",
+    "characteristic": "",
+    "photo": "choose/imagefruit/apricot.jpg",
+    "add":"content/fruitcontent/fruitcontentt.html",
+    "id":"b"
+  },
+  {
+    "name": "Banana",
+    "species": "Fruit",
+    "characteristic": "",
+    "photo": "choose/imagefruit/banana.jpg",
+    "add":"content/fruitcontent/fruitcontent.html",
+    "id":"c"
+  },
+  {
+    "name": "Grapefruit",
+    "species": "Fruit",
+    "characteristic":"",
+    "photo": "choose/imagefruit/grapefruit.jpg",
+    "add":"content/fruitcontent/fruitcontent.html",
+    "id":"d"
+  },
+  {
+    "name": "Kiwi",
+    "species": "Fruit",
+    "characteristic": "",
+    "photo": "choose/imagefruit/kiwi.jpg",
+    "add":"content/fruitcontent/fruitcontentt.html",
+    "id":"e"
+  },
+  {
+    "name": "Nectarine",
+    "species": "Fruit",
+    "characteristic": "",
+    "photo": "choose/imagefruit/nectarine.jpg",
+    "add":"content/fruitcontent/fruitcontent.html",
+    "id":"f"
+  },
+  {
+    "name": "Oranges",
+    "species": "Fruit",
+    "characteristic": "",
+    "photo": "choose/imagefruit/oranges.jpg",
+    "add":"content/fruitcontent/fruitcontent.html",
+    "id":"g"
+  },
+  {
+    "name": "Peach",
+    "species": "Fruit",
+    "characteristic": "",
+    "photo": "choose/imagefruit/peach.jpg",
+    "add":"content/fruitcontent/fruitcontent.html",
+    "id":"h"
+  },
+  {
+    "name": "Pear",
+    "species": "Fruit",
+    "characteristic": "",
+    "photo": "choose/imagefruit/pear.jpg",
+    "add":"content/fruitcontent/fruitcontent.html",
+    "id":"i"
+
+  },
+  {
+    "name": "Strawberry",
+    "species": "Fruit",
+    "characteristic": "",
+    "photo": "choose/imagefruit/strawberry.jpg",
+    "add":"content/fruitcontent/fruitcontent.html",
+    "id":"j"
+  }],
+  [{
+      "name": "Butter",
+      "species": "dairy",
+      "characteristic": "",
+      "photo": "choose/imagedairy/butter.jpg",
+      "add":"content/dairycontent/dairycontent.html",
+      "id":"a"
+    },
+    {
+      "name": "Butterfat",
+      "species": "dairy",
+      "characteristic": "",
+      "photo": "choose/imagedairy/butterfat.jpg",
+      "add":"content/dairycontent/dairycontent.html",
+      "id":"b"
+    },
+    {
+      "name": "Cheese",
+      "species": "dairy",
+      "characteristic": "",
+      "photo": "choose/imagedairy/cheese.jpg",
+      "add":"content/dairycontent/dairycontent.html",
+      "id":"c"
+    },
+    {
+        "name": "Cottage",
+      "species": "dairy",
+      "characteristic":"",
+      "photo": "choose/imagedairy/cottage.jpg",
+      "add":"content/dairycontent/dairycontent.html",
+      "id":"d"
+    },
+    {
+      "name": "Custard",
+      "species": "dairy",
+      "characteristic": "",
+      "photo": "choose/imagedairy/custard.jpg",
+      "add":"content/dairycontent/dairycontent.html",
+      "id":"e"
+    },
+    {
+      "name": "Milk",
+      "species": "dairy",
+      "characteristic": "",
+      "photo": "choose/imagedairy/milk.jpg",
+      "add":"content/dairycontent/dairycontent.html",
+      "id":"f"
+    },
+    {
+      "name": "Sourcecream",
+      "species": "dairy",
+      "characteristic": "",
+      "photo": "choose/imagedairy/sour cream.jpg",
+      "add":"content/dairycontent/dairycontent.html",
+      "id":"g"
+    },
+    {
+      "name": "Yogurt",
+      "species": "dairy",
+      "characteristic": "",
+      "photo": "choose/imagedairy/yogurt.jpg",
+      "add":"content/dairycontent/dairycontent.html",
+      "id":"h"
+    },
+    {
+      "name": "BlueCheese",
+      "species": "dairy",
+      "characteristic": "",
+      "photo": "choose/imagedairy/blueCheese.jpg",
+      "add":"content/dairycontent/dairycontentt.html",
+      "id":"i"
+    },
+    {
+      "name": "Collemeriers",
+      "species": "dairy",
+      "characteristic": "",
+      "photo": "choose/imagedairy/collemeriers.jpg",
+      "add":"content/dairycontent/dairycontent.html",
+      "id":"j"
+    }]
+]

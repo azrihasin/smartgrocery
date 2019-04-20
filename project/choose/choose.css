@@ -1,0 +1,86 @@
+body {
+  position: center;
+  font-family: sans-serif;
+  background-color: #dedede;
+  color: #333;
+  padding: 60px;
+
+  margin: 0;
+}
+
+button{
+
+
+
+margin-top: 150px;
+  margin-left: 70px;
+
+}
+
+img {
+  position:  relative;
+  width: 200px;
+  height: auto;
+}
+
+
+.app-title {
+  text-align: center;
+  font-weight: normal;
+  font-size: 2.6rem;
+}
+
+
+.grocery {
+
+
+  float: left;
+  border-radius: 35px;
+  height: 200px;
+  width: 345px;
+  padding: 20px;
+  margin: 10px;
+  background-color: #fff;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+
+
+.animal h4 {
+  margin: 0 0 6px 0;
+}
+
+.grocery-photo {
+  float: left;
+  width: 150px;
+  height:145px;
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-right: 15px;
+}
+
+.grocery-name {
+
+  position: absolute;
+  margin-top: 15px;
+  margin-left: 150px;
+  font-size: 2rem;
+  font-weight: normal;
+
+}
+
+.species {
+  font-size: 0.9rem;
+  color: #888;
+  vertical-align: middle;
+}
+
+
+
+h1 {
+  margin-top: 0;
+  font-size: 2.4em;
+  font-weight: normal;
+  display: inline-block;
+}

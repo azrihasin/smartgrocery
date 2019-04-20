@@ -1,0 +1,254 @@
+<html>
+    <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Poppins:800&amp;subset=devanagari,latin-ext" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+<link rel="stylesheet" href="project.css">
+    <style>
+
+
+
+      </style>
+      </head>
+      <body>
+
+
+
+
+<div class="top">
+
+  <img id="bg" src="mainbackground/grocery.jpg" alt="" class="picturebackground">
+
+</div>
+<input type="text" id="mySearch" >
+
+<button id="btn" value="search"type="button" name="button" ></button>
+
+
+
+  <div id="grocery">
+    <a id="grocery-link" href="ajax.html"><img id="grocery-photo" src="choose/imagefruit/apple.jpg"></a>
+    <h2 id="grocery-name">Apple<br><span id="species">(Fruit)</span></h2>
+
+
+
+    </div>
+
+<div id="smartgrocery">
+  <h1>SMART <br> GROCERY</h1>
+</div>
+
+<img id="hexabg"src="mainbackground/hexabg.png" alt="">
+
+
+<!--<div class="greenbackground" >
+
+        <div class="rellax d1">
+          <img src="2.png" width="70%"/>
+        </div>
+
+        <div class="rellax d2" data-rellax-speed="6">
+          <img src="1.png" width="100%"/>
+        </div>
+
+        <div class="rellax d3" data-rellax-speed="8">
+          <img src="3.png" width="100%"/>
+        </div>
+
+        <div class="rellax d4" data-rellax-speed="2">
+          <img src="4.png" width="90%"/>
+        </div>
+
+        <div class="rellax d5" data-rellax-speed="1">
+        </div>
+
+</div>--->
+
+<ul id="new">
+  <li><a class="active" href="#home" style="text-decoration:none" >HOME</a></li>
+  <li><a href="#news" style="text-decoration:none">NEWS</a></li>
+  <li>  <a href="#contact" style="text-decoration:none">CONTACT</a></li>
+  <li><a href="#about" style="text-decoration:none">ABOUT</a></li>
+
+</ul>
+    <p id="topics">BUY YOUR <br> GROCERIES <br> SMARTER & FASTER</p>
+    <p id="sentences">Get information about groceries items in this website and<br> get to know new item to enhance your <br>shopping skills</p>
+
+
+<img id="onion"src="mainbackground/coconutsticker.png" alt="">
+
+<div class="howtouse">
+  <h1 style="margin-left:250px;color:#663300;font-size:80px;z-index: 2;font-family: 'Poppins', sans-serif;">HOW TO <br>USE</h1>
+  <p style="margin-bottom: 50px;margin-top: -50px;margin-left:250px;color:#D2B48C;font-size:20px;z-index: 2;font-family: 'Poppins', sans-serif;">User guide to use this website</p>
+  <div class="rapid">
+    <img id="watch"src="mainbackground/stopwatch.png"  alt="">
+    <p id="text1"> &nbsp;&nbsp;&nbsp;&nbsp; Use rapid search to find your grocery item faster</p>
+  </div>
+  <div class="trolley">
+    <img id="trolley"src="mainbackground/cart.png" style="width:100px;height:100px;"alt="">
+    <p id="text2"> &nbsp;&nbsp;&nbsp;&nbsp; Click on the categories icon and choose more than 60 grocery item</p>
+  </div>
+  <div class="list">
+    <img id="list"src="mainbackground/list.png" style="width:100px;height:100px;"alt="">
+    <p id="text3">&nbsp;&nbsp;&nbsp;&nbsp;  Search and add to list your grocery item to make your shopping easier</p>
+  </div>
+</div>
+
+
+<img id="peppermintsticker" src="mainbackground/peppermintsticker.png" alt="">
+
+
+
+<div class="container">
+
+  <h1 style="color:#663300;font-size:80px;z-index: 2;font-family: 'Poppins', sans-serif;">FIND YOUR <br>ITEM</h1>
+  <p style="margin-bottom: 50px;margin-top: -50px;color:#D2B48C;font-size:20px;z-index: 2;font-family: 'Poppins', sans-serif;">Choose your categories to find your item by clicking the icon</p>
+  <div class="row">
+    <a href="choose/choose.html" ><button class="a" name="button" type="button" value="0" onclick="button0()"  ></button></a>
+    <a href="choose/choose.html" ><button class="b" name="button" type="button" value="2" onclick="button2()"></button></a>
+    <a href="choose/choose.html" ><button class="c" name="button" type="button" value="4" onclick="button4()"></button></a>
+
+
+  </div>
+
+<div class="row2">
+  <a href="choose/choose.html"><button type="button" class="d" name="button"  value="1" onclick="button1()"></button></a>
+  <a href="choose/choose.html"><button type="button" class="e" name="button"  value="3" onclick="button3()"></button></a>
+  <a href="choose/choose.html"><button type="button" class="f" name="button"  value="5" onclick="button5()"></button></a>
+
+
+</div>
+</div>
+
+<div class="footer">
+  <p class="f1">Want to suggest more groceries item?</p>
+  <p class="f2">Then contact us and email us your suggestion <br>to be evaluated by our team </p>
+<div class="contactbox">
+  <p class="contacttext">CONTACT US</p>
+</div>
+  <p class="f3">smartgrocery@gmail.com</p>
+  <p class="f4">53100, Selangor,International Islamic University Malaysia</p>
+</div>
+
+
+        <script type="text/javascript" src="rellax.js"></script>
+        <script>
+        var rellax = new Rellax('.rellax', {
+         // center: true
+         callback: function(position) {
+             // callback every position change
+             console.log(position);
+         }
+       });
+
+          function button0(){
+            var data = 0;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+          function button1(){
+            var data = 1;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+          function button2(){
+            var data = 2;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+          function button3(){
+            var data = 3;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+          function button4(){
+            var data = 4;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+          function button5(){
+            var data = 5;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+
+
+
+
+          var ourRequest = new XMLHttpRequest();
+          ourRequest.open('GET', 'https://raw.githubusercontent.com/azrihasin/smartgrocery/master/project/grocerydata.json');
+          ourRequest.onload = function () {
+            if (ourRequest.status >= 200 && ourRequest.status < 400) {
+              var groceryData = JSON.parse(ourRequest.responseText);
+
+var x=document.getElementById("mySearch");
+
+
+
+document.getElementById("btn").addEventListener("click",function()
+{
+  myFunction(groceryData,x);
+}
+);
+
+
+
+function myFunction(groceryData,x){
+
+
+
+for(var i=0;i<2;i++){
+  for(var j=0;j<10;j++){
+    if(groceryData[i][j].name == x.value){
+
+      document.getElementById("grocery-name").textContent=groceryData[i][j].name;
+      document.getElementById("grocery-link").href=groceryData[i][j].add;
+      document.getElementById("grocery-photo").src=groceryData[i][j].photo;
+
+    }
+  }
+
+
+
+
+}
+
+
+
+
+
+};
+
+
+
+            } else {
+              console.log("We connected to the server, but it returned an error.");
+            }
+
+
+          };
+
+          ourRequest.onerror = function() {
+            console.log("Connection error");
+          };
+
+          ourRequest.send();
+
+              // look for the entry with a matching `code` value
+
+
+
+
+        </script>
+
+
+
+    </body>
+</html>
