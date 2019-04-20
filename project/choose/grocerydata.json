@@ -4,7 +4,7 @@
     "name": "Apple",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "image/imagefruit/apple.jpg",
+    "photo": "../image/imagefruit/apple.jpg",
     "add":"content/fruitcontent/fruitcontent.html",
     "id":"a"
   },
@@ -12,7 +12,7 @@
     "name": "Apricot",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "image/imagefruit/apricot.jpg",
+    "photo": "../image/imagefruit/apricot.jpg",
     "add":"content/fruitcontent/fruitcontent.html",
     "id":"b"
   },
@@ -20,7 +20,7 @@
     "name": "Banana",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "image/imagefruit/banana.jpg",
+    "photo": "../image/imagefruit/banana.jpg",
     "add":"content/fruitcontent/fruitcontent.html",
     "id":"c"
   },
@@ -28,7 +28,7 @@
     "name": "Grapefruit",
     "species": "Fruit",
     "characteristic":"",
-    "photo": "image/imagefruit/grapefruit.jpg",
+    "photo": "../image/imagefruit/grapefruit.jpg",
     "add":"content/fruitcontent/fruitcontent.html",
     "id":"d"
   },
@@ -36,7 +36,7 @@
     "name": "Kiwi",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "image/imagefruit/kiwi.jpg",
+    "photo": "../image/imagefruit/kiwi.jpg",
     "add":"content/fruitcontent/fruitcontentt.html",
     "id":"e"
   },
@@ -44,7 +44,7 @@
     "name": "Nectarine",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "image/imagefruit/nectarine.jpg",
+    "photo": "../image/imagefruit/nectarine.jpg",
     "add":"content/fruitcontent/fruitcontent.html",
     "id":"f"
   },
@@ -52,7 +52,7 @@
     "name": "Oranges",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "image/imagefruit/oranges.jpg",
+    "photo": "../image/imagefruit/oranges.jpg",
     "add":"content/fruitcontent/fruitcontent.html",
     "id":"g"
   },
@@ -60,7 +60,7 @@
     "name": "Peach",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "image/imagefruit/peach.jpg",
+    "photo": "../image/imagefruit/peach.jpg",
     "add":"content/fruitcontent/fruitcontent.html",
     "id":"h"
   },
@@ -68,7 +68,7 @@
     "name": "Pear",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "image/imagefruit/pear.jpg",
+    "photo": "../image/imagefruit/pear.jpg",
     "add":"content/fruitcontent/fruitcontent.html",
     "id":"i"
 
@@ -77,7 +77,7 @@
     "name": "Strawberry",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "image/imagefruit/strawberry.jpg",
+    "photo": "../image/imagefruit/strawberry.jpg",
     "add":"content/fruitcontent/fruitcontent.html",
     "id":"j"
   }],
@@ -85,7 +85,7 @@
       "name": "Butter",
       "species": "dairy",
       "characteristic": "",
-      "photo": "image/imagedairy/butter.jpg",
+      "photo": "../image/imagedairy/butter.jpg",
       "add":"content/dairycontent/dairycontent.html",
       "id":"a"
     },
@@ -93,7 +93,7 @@
       "name": "Butterfat",
       "species": "dairy",
       "characteristic": "",
-      "photo": "image/imagedairy/butterfat.jpg",
+      "photo": "../image/imagedairy/butterfat.jpg",
       "add":"content/dairycontent/dairycontent.html",
       "id":"b"
     },
@@ -101,7 +101,7 @@
       "name": "Cheese",
       "species": "dairy",
       "characteristic": "",
-      "photo": "image/imagedairy/cheese.jpg",
+      "photo": "../image/imagedairy/cheese.jpg",
       "add":"content/dairycontent/dairycontent.html",
       "id":"c"
     },
@@ -109,7 +109,7 @@
         "name": "Cottage",
       "species": "dairy",
       "characteristic":"",
-      "photo": "image/imagedairy/cottage.jpg",
+      "photo": "../image/imagedairy/cottage.jpg",
       "add":"content/dairycontent/dairycontent.html",
       "id":"d"
     },
@@ -117,7 +117,7 @@
       "name": "Custard",
       "species": "dairy",
       "characteristic": "",
-      "photo": "image/imagedairy/custard.jpg",
+      "photo": "../image/imagedairy/custard.jpg",
       "add":"content/dairycontent/dairycontent.html",
       "id":"e"
     },
@@ -125,7 +125,7 @@
       "name": "Milk",
       "species": "dairy",
       "characteristic": "",
-      "photo": "image/imagedairy/milk.jpg",
+      "photo": "../image/imagedairy/milk.jpg",
       "add":"content/dairycontent/dairycontent.html",
       "id":"f"
     },
@@ -133,7 +133,7 @@
       "name": "Sourcecream",
       "species": "dairy",
       "characteristic": "",
-      "photo": "image/imagedairy/sour cream.jpg",
+      "photo": "../image/imagedairy/sour cream.jpg",
       "add":"content/dairycontent/dairycontent.html",
       "id":"g"
     },
@@ -141,7 +141,7 @@
       "name": "Yogurt",
       "species": "dairy",
       "characteristic": "",
-      "photo": "image/imagedairy/yogurt.jpg",
+      "photo": "../image/imagedairy/yogurt.jpg",
       "add":"content/dairycontent/dairycontent.html",
       "id":"h"
     },
@@ -149,7 +149,7 @@
       "name": "BlueCheese",
       "species": "dairy",
       "characteristic": "",
-      "photo": "image/imagedairy/blueCheese.jpg",
+      "photo": "../image/imagedairy/blueCheese.jpg",
       "add":"content/dairycontent/dairycontentt.html",
       "id":"i"
     },
@@ -157,7 +157,7 @@
       "name": "Collemeriers",
       "species": "dairy",
       "characteristic": "",
-      "photo": "image/imagedairy/collemeriers.jpg",
+      "photo": "../image/imagedairy/collemeriers.jpg",
       "add":"content/dairycontent/dairycontent.html",
       "id":"j"
     }]
