@@ -1,0 +1,31 @@
+[
+{
+  "title": "Tomatoes",
+  "subtitle": "The medicinal love apple",
+  "char1": "Red",
+  "char2": "Round shaped",
+  "char3": "sour",
+  "char4": "soft",
+  "picture": "apple.jpg",
+  "desc1": "The red juicy tomato is a vegetable but you are not alone if you have mistaken it for a fruit. It was even called 'loved apple' once. This native of South America grows wild on the slopes of the Andes - hence its name which is derived from the Mexican Indian word tomatl. Soon after the Spaniards' conquest of Mexico, the fruit was taken to Europe after 1532. In Italy it caught on so to become part of the national diet.",
+
+  "desc2": "It was first grown in Malaya in 1850. Today it is mainly grown in Cameron Highlands. Fruit or vegetable, it is definitely nutritious, especially in Vitamin A, potassium and sodium. Comparing it with brinjals, say, the tomato contains nearly 9 times as much Vitamin A, 47 times more potassium, and over 34 times more sodium. There are good amounts of vitamin C, calcium and phosphorus as well as B-complex vitamins.",
+
+  "sticker": "applesticker.png",
+  "nutrient1": "Calcium",
+  "nutrient2": "Phosphorus",
+  "nutrient3": "Iron",
+  "nutrient4": "Sodium",
+  "nutrient5": "Potassium",
+  "nutrient6": "Vitamin A",
+  "nutrient7": "Vitamin C",
+
+  "fact1": "12 mcg",
+  "fact2": "28 mg",
+  "fact3": "0.8 mg",
+  "fact4": "310 mg",
+  "fact5": "2570 mg",
+  "fact6": "132 mcg",
+  "fact7": "25.8 mg"
+}
+]

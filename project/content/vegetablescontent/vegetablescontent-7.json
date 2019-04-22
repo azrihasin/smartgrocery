@@ -1,0 +1,34 @@
+[
+{
+  "title": "Pumpkin",
+  "subtitle": "Too good to be ignored",
+  "char1": "Orange",
+  "char2": "Round shaped",
+  "char3": "Soft",
+  "char4": "",
+  "picture": "apple.jpg",
+  "desc1": "If pumpkin is not in your diet, you are depriving yourself of some good food for it is rich in vitamins and minerals. It is extremely rich in Vitamn A, essential for good eyesight: a 100-gram portion has 77 times more than that found in, say, a pear, and about 26 times more than the amount found in the pear and almost equivalent to that found in the orange.",
+
+  "desc2": "The pumpkin can also boast of a high mineral content. For instance, it has twice as much calcium compared to the pear. It has 4 times more phosphorus compared to cabbage and almost 3 times more than the pear. High levels of potassium and sodium are also found in pumpkin along with ample amounts of Vitamins B1 and B2, protein and iron.",
+
+  "sticker": "applesticker.png",
+  "nutrient1": "Protein",
+  "nutrient2": "Calcium",
+  "nutrient3": "Phosphorus",
+  "nutrient4": "Iron",
+  "nutrient5": "Sodium",
+  "nutrient6": "Potassium",
+  "nutrient7": "Viatmin A",
+  "nutrient8": "Vitamin C",
+
+  "fact1": "0.9 g",
+  "fact2": "21 mg",
+  "fact3": "39 mg",
+  "fact4": "0.7 mg",
+  "fact5": "50 mg",
+  "fact6": "113 mg",
+  "fact7": "77 mcg",
+  "fact8": "36.5 mg"
+
+}
+]

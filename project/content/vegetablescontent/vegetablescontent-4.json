@@ -1,0 +1,30 @@
+[
+{
+  "title": "Lettuce",
+  "subtitle": "More vitamins than meat",
+  "char1": "Green",
+  "char2": "Round shaped",
+  "char3": "Crunchy",
+  "char4": "",
+  "picture": "apple.jpg",
+  "desc1": "Salads are a favourite in our hot climate, being refreshing, yet tasty and easy to prepare and lettuce is a popular in salads. That's not suprising: not only does it taste good, it's nutritious too. Just 100 gram of this vegetable gives you more Vitamin A than the same amount of meat. Indeed this is just the right amount a child needs daily. For the average adult, eat twice this amount and you will have enough Vitamin A for the day. Lettuce is also quite rich in Vitamin C and B and is a good source of essential minerals like calcium, phosphorus and iron. This native of middle east has spread throughout the world since it was served to Persian kings about 550 BC. The ancient Greeks were also growing about 9 varieties for the table.",
+
+  "desc2": "In choosing lettuce, look for a fresh, green color. Avoid limp or oversoaked ones. Lettuce wilts quickly because of the large leaf area and has to be kept in the fridge. Keep in the bottom in plastics bags, after removing yellow leaves. However, as it is still breathing water can condense inside the bag. As wet lettuce is prone to rot, make sure the lettuce is dry as possible before storing or you can wrap the vegetable in newsprint. Eat within 2-3 days. Although you can serve the vegetable in a number of ways, the best is to eat it raw as all the vitamins and minerals will be retained. You can also cook it like any other vegetable. The best way is to braise it. Cut the lettuce into the desired size. Fry in a little oil. Add a little water and cover the pan for a few minutes.",
+
+  "sticker": "applesticker.png",
+  "nutrient1": "Calories",
+  "nutrient2": "Calcium",
+  "nutrient3": "Phosphorus",
+  "nutrient4": "Iron",
+  "nutrient5": "Potassium",
+  "nutrient6": "Vitamin C",
+
+  "fact1": "60",
+  "fact2": "50 mg",
+  "fact3": "140 mg",
+  "fact4": "9.4 mg",
+  "fact5": "282 g",
+  "fact6": "90-100 mg"
+
+}
+]

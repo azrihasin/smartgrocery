@@ -1,10 +1,10 @@
-var index= localStorage.getItem('data');
+var index= localStorage.getItem('datacontent');
 
 console.log( index);
 
 
 var ourRequest = new XMLHttpRequest();
-ourRequest.open('GET', 'https://azrihasin.github.io/smartgrocery/project/content-0.json');
+ourRequest.open('GET', 'https://azrihasin.github.io/smartgrocery/project/content/fruitcontent/fruitcontent-'+index+'.json');
 ourRequest.onload = function() {
   if (ourRequest.status >= 200 && ourRequest.status < 400) {
     var groceryData = JSON.parse(ourRequest.responseText);

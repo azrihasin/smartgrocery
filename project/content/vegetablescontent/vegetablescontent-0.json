@@ -1,0 +1,30 @@
+[
+{
+  "title": "Bitter Gourd",
+  "subtitle": "biter Tonic",
+  "char1": "Green",
+  "char2": "Long shaped",
+  "char3": "Bitter",
+  "char4": "",
+  "picture": "apple.jpg",
+  "desc1": "Many people avoid bitter-tasting food because they find the taste unpleasant. However, the bitter gourd is a well-known exception, being relished as a vegetable and valued for its medicinal qualities as well. Belonging to the same family as cucumbers, squashes and gourds, it is the fruit of a climber or vine-like tropical plant. Its origin is unknown but the bitter gourd is found in all parts of India, tropical Africa, Southeast Asia and China. The gourd with its typical ribbed and pointed appearance can be anything from 2 to 10 inches long.",
+
+  "desc2": "The plant is said to be wormcide. Half of teaspoon of juice from the leaves when taken is thought to expel worms in babies. The fruit and leaves can be used as a tonic to control fever, for stomach pains and as a purgative. Extracts of the plant are also considered beneficial for rheumatism and disorders of the liver and spleen. The powdered root, fruit and seeds are applied externally to haemorrhoids. The seeds are usually used in medicinal preparations.",
+
+  "sticker": "applesticker.png",
+  "nutrient1": "Calories",
+  "nutrient2": "Calcium",
+  "nutrient3": "Phosphorus",
+  "nutrient4": "Iron",
+  "nutrient5": "Potassium",
+  "nutrient6": "Vitamin C",
+
+  "fact1": "60",
+  "fact2": "50 mg",
+  "fact3": "140 mg",
+  "fact4": "9.4 mg",
+  "fact5": "282 g",
+  "fact6": "90-100 mg"
+
+}
+]

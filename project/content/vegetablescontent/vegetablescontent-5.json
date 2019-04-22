@@ -1,0 +1,33 @@
+[
+{
+  "title": "Long Beans",
+  "subtitle": "Food for the Health Conscious",
+  "char1": "Green",
+  "char2": "very long shaped",
+  "char3": "Crunchy",
+  "char4": "",
+  "picture": "apple.jpg",
+  "desc1": "Many health conscious people, especially vegetarian, take legume like peas in combination with other vegetable proteins in place of meat. If you are one of them and have grown tired of peas, the why not try beans instead? Beans such as long beans are also a type of legume and are just as tasty. Long beans have had a long history, going back as far back as 2350 BC. The Sumerians called it lu-ub-sar. The plant was also grown by the ancient Greeks, Romans and Indians. From ancient China, it was brought to Southeast Asia. They are sold in the form of immature pods, fleshy yet brittle. Mature ones flabby or inflated don't taste nice or crunchy, especially when fried.",
+
+  "desc2": "Usually fried or cooked in curries, long beans are also mixed in salads and in ulam. Its leaves are also eaten in this case. Long beans are rich in Vitamin C and A and calcium. A 100 gram servinf easily can give you 6 times as much Vitamin A as the amount found in an equal portion of fresh peas. It is also gives you around 22 milligrams of Vitamin C. This is already over a third of the recommended daily allowance for adults.",
+
+  "sticker": "applesticker.png",
+  "nutrient1": "Protein",
+  "nutrient2": "Calcium",
+  "nutrient3": "Phosphorus",
+  "nutrient4": "Iron",
+  "nutrient5": "Sodium",
+  "nutrient6": "Potassium",
+  "nutrient7": "Viatmin A",
+  "nutrient8": "Vitamin C",
+
+  "fact1": "2.1 mg",
+  "fact2": "61 mg",
+  "fact3": "33 mg",
+  "fact4": "0.8 mg",
+  "fact5": "5 mg",
+  "fact6": "53 mg",
+  "fact7": "86 mcg",
+  "fact8": "21.9 mg"
+}
+]
