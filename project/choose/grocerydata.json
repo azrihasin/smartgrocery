@@ -181,5 +181,100 @@
       "add":"../content/dairycontent/dairycontent.html",
       "id":"j",
       "value":"9"
+    }],
+    [
+    {
+      "name": "Bitter Gourd",
+      "species": "Vegetables",
+      "char1": "Green",
+      "char2": "Long shaped",
+      "char3": "Bitter",
+      "char4": "",
+      "photo": "../image/imagefruit/apple.jpg",
+      "add":"../content/fruitcontent/fruitcontent.html",
+      "id":"a",
+      "value":"0"
+    },
+    {
+      "name": "Cabbage",
+      "species": "Vegetables",
+      "characteristic": "",
+      "photo": "../image/imagefruit/apricot.jpg",
+      "add":"../content/fruitcontent/fruitcontent.html",
+      "id":"b",
+      "value":"1"
+    },
+    {
+      "name": "Carrots",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/banana.jpg",
+      "add":"../content/fruitcontent/fruitcontent.html",
+      "id":"c",
+      "value":"2"
+    },
+    {
+      "name": "Cucumbers",
+      "species": "Fruit",
+      "characteristic":"",
+      "photo": "../image/imagefruit/grapefruit.jpg",
+      "add":"../content/fruitcontent/fruitcontent.html",
+      "id":"d",
+      "value":"3"
+    },
+    {
+      "name": "Lettuce",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/kiwi.jpg",
+      "add":"../content/fruitcontent/fruitcontentt.html",
+      "id":"e",
+      "value":"4"
+    },
+    {
+      "name": "Long Beans",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/nectarine.jpg",
+      "add":"../content/fruitcontent/fruitcontent.html",
+      "id":"f",
+      "value":"5"
+    },
+    {
+      "name": "Potatoes",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/oranges.jpg",
+      "add":"../content/fruitcontent/fruitcontent.html",
+      "id":"g",
+      "value":"6"
+    },
+    {
+      "name": "Pumpkin",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/peach.jpg",
+      "add":"../content/fruitcontent/fruitcontent.html",
+      "id":"h",
+      "value":"7"
+    },
+    {
+      "name": "Tomatoes",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/pear.jpg",
+      "add":"../content/fruitcontent/fruitcontent.html",
+      "id":"i",
+      "value":"8"
+
+    },
+    {
+      "name": "Kangkung",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/strawberry.jpg",
+      "add":"../content/fruitcontent/fruitcontent.html",
+      "id":"j",
+      "value":"9"
     }]
 ]

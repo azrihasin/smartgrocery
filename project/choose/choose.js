@@ -6,12 +6,16 @@ console.log( index);
 var i=-1;
 
 var ourRequest = new XMLHttpRequest();
-ourRequest.open('GET', 'https://raw.githubusercontent.com/azrihasin/smartgrocery/master/project/grocerydata.json');
+ourRequest.open('GET', 'https://azrihasin.github.io/smartgrocery/project/choose/grocerydata.json');
 ourRequest.onload = function() {
   if (ourRequest.status >= 200 && ourRequest.status < 400) {
     var groceryData = JSON.parse(ourRequest.responseText);
     groceryTemplate(groceryData,index);
     groceryitem(groceryData,index);
+
+
+
+
 
   } else {
     console.log("We connected to the server, but it returned an error.");
@@ -27,15 +31,14 @@ ourRequest.send();
 
 
 
-
+var i=-1;
 
 
 function groceryTemplate(data,index) {
-
   return `
   <div class="container">
       <div id="${data.id}" class="grocery">
-    <a href=${data.add}><img class="grocery-photo" onclick="myfunction()" src="${data.photo}"></a>
+    <a href=${data.add}><img class="grocery-photo"  onclick="myFunction(${data.value})" src="${data.photo}"></a>
     <h2 class="grocery-name">${data.name} <br><span class="species">(${data.species})</span></h2>
 
     <button class="a">Add to list </button>
@@ -47,11 +50,21 @@ function groceryTemplate(data,index) {
 
 
 function groceryitem(data,index){
+
   document.getElementById("app").innerHTML = `
 
 
-    <h1 class="app-title">Fruits (${data[index].length}results)</h1>
+    <h1 class="app-title"> (${data[index].length}results)</h1>
     ${data[index].map(groceryTemplate).join("")}
 
+
 `;
+}
+
+function myFunction(val){
+
+
+  var data=val;
+  // Put the var into storage
+  localStorage.setItem('datacontent', data);
 }
