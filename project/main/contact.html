@@ -1,0 +1,457 @@
+<html>
+    <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Poppins:800&amp;subset=devanagari,latin-ext" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+<link rel="stylesheet" href="project.css">
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <link rel="icon" type="image/png" href="favicon.png">
+
+  <title>Smart! Grocery</title>
+</head>
+    <style>
+
+    body{
+        position: absolute;
+        position: center;
+        width:100%;
+        overflow-x: hidden !important;
+        margin: 0 auto;
+    background-color: #F8F8FF;
+
+      }
+
+      .top{
+        position:absolute;
+        z-index: 0;
+
+
+      }
+
+      #favicon{
+        position: absolute;
+        width:50px;
+        height:50px;
+        z-index: 5;
+        margin-left: 45px;
+        margin-top: 37px;
+      }
+
+      #smartgrocery{
+        position: absolute;
+        z-index: 5;
+        margin-top: 20px;
+        margin-left: 100px;
+
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        font-size: 10px;
+      }
+
+
+
+
+      img.picturebackground{
+
+        position: center;
+        width: 1366px;
+        height:700px;
+
+      }
+
+      .greenbackground{
+
+          position:absolute;
+          margin-top: 0px;
+          width: 100%;
+          max-height: 900px;
+          z-index: 3;
+
+
+          background-size: contain;
+
+        }
+
+        .picturebackground{
+
+          filter: brightness(50%);
+          position:absolute;
+          width: 100%;
+          background-size:  auto;
+          position:  absolute;
+            box-shadow: 0 0 20px 0px rgba(0,0,0,0.5);
+
+        }
+
+
+
+
+    #new{
+
+
+      right: 100px;
+      margin-top: 40px;
+      position: absolute;
+      color: white;
+      font-size: 30px;
+
+    }
+
+    #onion{
+      position: absolute;
+      margin-top: 820px;
+      left:550px;
+      width: 400px;
+      height:400px;
+      z-index:0;
+      border-radius: 200px;
+    }
+
+
+    .howtouse{
+      position: absolute;
+      margin-top: 790px;
+      height:800px;
+
+
+    }
+
+    #text1{
+      margin:40px;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    #text2{
+      margin:40px;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    #text3{
+      margin:50px;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+
+
+
+
+
+    ul li{
+    color: white;
+    display: inline;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    }
+
+    .footer {
+      position: absolute;
+      margin-top: 1000px;
+      padding: 1rem;
+      box-shadow: 0 0 20px 0px rgba(0,0,0,0.5);
+      background-color:#663300;
+      text-align: center;
+      width: 100%;
+      height:400px;
+    }
+
+    .f1{
+      color:#D2B48C;
+      margin-top: 60px;
+      font-size: 20px;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    .f2{
+      color:#D2B48C;
+
+      font-size: 20px;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    .contactbox{
+      position: absolute;
+      margin-left: 570px;
+      box-sizing: content-box;
+      width:200px;
+      height:45px;
+      border:5px solid #D2B48C ;
+      border-radius: 5px;
+
+    }
+
+    .contacttext{
+      position: absolute;
+      color:#D2B48C;
+      font-size: 20px;
+      margin: 10px;
+      margin-left: 35px;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    .f3{
+      color:#D2B48C;
+      margin-top: 100px;
+      font-size: 20px;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+    .f4{
+      color:#D2B48C;
+      font-size: 20px;
+      font-family: 'Open Sans', sans-serif;
+    }
+
+
+    .contactCol{
+      width: 800px;
+      height: 400px;
+      position: absolute;
+      margin-top: 100px;
+      left: 200px;
+      color: white;
+    }
+
+    .contactForm
+    {
+      position: absolute;
+      width:800px;
+      height:500px;
+      background-color: #dedede;
+      padding: 20px;
+      border: 2px solid black;
+      border-radius: 50px;
+      left: 0px;
+      margin-top: 40px;
+      box-shadow: 0 0 20px 0px rgba(0,0,0,1);
+      color:black
+    }
+
+    .contactForm input[type=text]
+    {
+      margin-top: 25px;
+      width: 100%;
+      padding: 10px;
+      border-radius: 15px;
+      margin-bottom: 10px;
+      display: inline-block;
+
+      border: 1px solid black;
+      box-sizing: border-box;
+    }
+
+    .contactForm #formMsg
+    {
+      height: 200px;
+    }
+
+
+
+      </style>
+      </head>
+      <body>
+
+
+
+
+<div class="top">
+
+  <img id="bg" src="../mainbackground/grocery.jpg" alt="" class="picturebackground">
+
+</div>
+
+
+<div id="smartgrocery">
+  <h1>SMART! <br> GROCERY</h1>
+</div>
+
+
+
+<!--<div class="greenbackground" >
+
+        <div class="rellax d1">
+          <img src="2.png" width="70%"/>
+        </div>
+
+        <div class="rellax d2" data-rellax-speed="6">
+          <img src="1.png" width="100%"/>
+        </div>
+
+        <div class="rellax d3" data-rellax-speed="8">
+          <img src="3.png" width="100%"/>
+        </div>
+
+        <div class="rellax d4" data-rellax-speed="2">
+          <img src="4.png" width="90%"/>
+        </div>
+
+        <div class="rellax d5" data-rellax-speed="1">
+        </div>
+
+</div>--->
+
+<div class="favicon">
+  <img id="favicon"src="logo.png" alt="">
+
+</div>
+
+<ul id="new">
+  <li><a class="active" href="project.html" style="text-decoration:none" >HOME</a></li>
+  <li><a href="list.html" style="text-decoration:none">LIST</a></li>
+  <li>  <a href="contact.html" style="text-decoration:none">CONTACT</a></li>
+  <li><a href="about.html" style="text-decoration:none">ABOUT</a></li>
+
+</ul>
+
+
+<div class="contentContact">
+  <div class="contactText">
+    <div class="contactCol">
+      <h3>Any enquiries?</h3>
+      <h3>Did we miss some important items?</h3>
+      <h3>Or perhaps you just wanted to say hi?</h3>
+      <p>Fret not. Shoot us an e-mail below and we'll get to you.</p>
+      <form class="contactForm" action="index.html" method="post">
+        <label for="name">Name:</label>
+        <input type="text" name="name" value="">
+
+        <label for="email">E-mail Address:</label>
+        <input type="text" name="email" value="">
+
+        <label for="message">Message:</label>
+        <input type="text" name="message" value="" id="formMsg">
+
+        <button type="button" name="button">Submit</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+
+<div class="footer">
+  <p class="f1">Want to suggest more groceries item?</p>
+  <p class="f2">Then contact us and email us your suggestion <br>to be evaluated by our team </p>
+<div class="contactbox">
+  <p class="contacttext">CONTACT US</p>
+</div>
+  <p class="f3">smartgrocery@gmail.com</p>
+  <p class="f4">53100, Selangor,International Islamic University Malaysia</p>
+</div>
+
+
+        <script type="text/javascript" src="rellax.js"></script>
+        <script>
+
+
+          function button0(){
+            var data = 0;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+          function button1(){
+            var data = 1;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+          function button2(){
+            var data = 2;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+          function button3(){
+            var data = 3;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+          function button4(){
+            var data = 4;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+          function button5(){
+            var data = 5;
+            // Put the var into storage
+            localStorage.setItem('data', data);
+          }
+
+
+
+
+
+          var ourRequest = new XMLHttpRequest();
+          ourRequest.open('GET', 'https://azrihasin.github.io/smartgrocery/project/choose/grocerydata.json');
+          ourRequest.onload = function () {
+            if (ourRequest.status >= 200 && ourRequest.status < 400) {
+              var groceryData = JSON.parse(ourRequest.responseText);
+
+              var x=document.getElementById("mySearch");
+
+
+
+              document.getElementById("btn").addEventListener("click",function()
+              {
+                myFunction(groceryData,x);
+              }
+            );
+
+
+
+            function myFunction(groceryData,x){
+
+
+
+              for(var i=0;i<2;i++){
+                for(var j=0;j<10;j++){
+                  if(groceryData[i][j].name == x.value){
+
+                    document.getElementById("grocery-name").textContent=groceryData[i][j].name;
+                    document.getElementById("grocery-link").href=groceryData[i][j].add;
+                    document.getElementById("grocery-photo").src=groceryData[i][j].photo;
+
+    }
+  }
+
+
+
+
+}
+
+
+
+
+
+};
+
+
+
+            } else {
+              console.log("We connected to the server, but it returned an error.");
+            }
+
+
+          };
+
+          ourRequest.onerror = function() {
+            console.log("Connection error");
+          };
+
+          ourRequest.send();
+
+              // look for the entry with a matching `code` value
+
+
+
+
+        </script>
+
+
+
+    </body>
+</html>

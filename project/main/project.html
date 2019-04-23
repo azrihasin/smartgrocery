@@ -5,11 +5,13 @@
 <link href="https://fonts.googleapis.com/css?family=Poppins:800&amp;subset=devanagari,latin-ext" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
 <link rel="stylesheet" href="project.css">
-    <style>
+
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <link rel="icon" type="image/png" href="favicon.png">
+
+  <title>Smart! Grocery</title>
 
 
-
-      </style>
       </head>
       <body>
 
@@ -39,6 +41,12 @@
   <h1>SMART <br> GROCERY</h1>
 </div>
 
+
+<div class="favicon">
+  <img id="favicon"src="logo.png" alt="">
+
+</div>
+
 <img id="hexabg"src="../mainbackground/hexabg.png" alt="">
 
 
@@ -66,10 +74,10 @@
 </div>--->
 
 <ul id="new">
-  <li><a class="active" href="#home" style="text-decoration:none" >HOME</a></li>
-  <li><a href="#news" style="text-decoration:none">LIST</a></li>
-  <li>  <a href="#contact" style="text-decoration:none">CONTACT</a></li>
-  <li><a href="#about" style="text-decoration:none">ABOUT</a></li>
+  <li><a class="active" href="project.html" style="text-decoration:none" >HOME</a></li>
+  <li><a href="list.html" style="text-decoration:none">LIST</a></li>
+  <li>  <a href="contact.html" style="text-decoration:none">CONTACT</a></li>
+  <li><a href="about.html" style="text-decoration:none">ABOUT</a></li>
 
 </ul>
     <p id="topics">BUY YOUR <br> GROCERIES <br> SMARTER & FASTER</p>
@@ -182,29 +190,29 @@
             if (ourRequest.status >= 200 && ourRequest.status < 400) {
               var groceryData = JSON.parse(ourRequest.responseText);
 
-var x=document.getElementById("mySearch");
+              var x=document.getElementById("mySearch");
 
 
 
-document.getElementById("btn").addEventListener("click",function()
-{
-  myFunction(groceryData,x);
-}
-);
+              document.getElementById("btn").addEventListener("click",function()
+              {
+                myFunction(groceryData,x);
+              }
+            );
 
 
 
-function myFunction(groceryData,x){
+            function myFunction(groceryData,x){
 
 
 
-for(var i=0;i<2;i++){
-  for(var j=0;j<10;j++){
-    if(groceryData[i][j].name == x.value){
-alert(groceryData[i][j].add);
-      document.getElementById("grocery-name").textContent=groceryData[i][j].name;
-      document.getElementById("grocery-link").href=groceryData[i][j].add;
-      document.getElementById("grocery-photo").src=groceryData[i][j].photo;
+              for(var i=0;i<2;i++){
+                for(var j=0;j<10;j++){
+                  if(groceryData[i][j].name == x.value){
+
+                    document.getElementById("grocery-name").textContent=groceryData[i][j].name;
+                    document.getElementById("grocery-link").href=groceryData[i][j].add;
+                    document.getElementById("grocery-photo").src=groceryData[i][j].photo;
 
     }
   }
