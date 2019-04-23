@@ -191,7 +191,7 @@
       "char3": "Bitter",
       "char4": "",
       "photo": "../image/imagefruit/apple.jpg",
-      "add":"../content/fruitcontent/fruitcontent.html",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"a",
       "value":"0"
     },
@@ -200,7 +200,7 @@
       "species": "Vegetables",
       "characteristic": "",
       "photo": "../image/imagefruit/apricot.jpg",
-      "add":"../content/fruitcontent/fruitcontent.html",
+      "add":"../content/vegetablescontent/vegetablescontentt.html",
       "id":"b",
       "value":"1"
     },
@@ -209,7 +209,7 @@
       "species": "Fruit",
       "characteristic": "",
       "photo": "../image/imagefruit/banana.jpg",
-      "add":"../content/fruitcontent/fruitcontent.html",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"c",
       "value":"2"
     },
@@ -218,7 +218,7 @@
       "species": "Fruit",
       "characteristic":"",
       "photo": "../image/imagefruit/grapefruit.jpg",
-      "add":"../content/fruitcontent/fruitcontent.html",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"d",
       "value":"3"
     },
@@ -227,7 +227,7 @@
       "species": "Fruit",
       "characteristic": "",
       "photo": "../image/imagefruit/kiwi.jpg",
-      "add":"../content/fruitcontent/fruitcontentt.html",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"e",
       "value":"4"
     },
@@ -236,7 +236,7 @@
       "species": "Fruit",
       "characteristic": "",
       "photo": "../image/imagefruit/nectarine.jpg",
-      "add":"../content/fruitcontent/fruitcontent.html",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"f",
       "value":"5"
     },
@@ -245,7 +245,7 @@
       "species": "Fruit",
       "characteristic": "",
       "photo": "../image/imagefruit/oranges.jpg",
-      "add":"../content/fruitcontent/fruitcontent.html",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"g",
       "value":"6"
     },
@@ -254,7 +254,7 @@
       "species": "Fruit",
       "characteristic": "",
       "photo": "../image/imagefruit/peach.jpg",
-      "add":"../content/fruitcontent/fruitcontent.html",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"h",
       "value":"7"
     },
@@ -263,7 +263,7 @@
       "species": "Fruit",
       "characteristic": "",
       "photo": "../image/imagefruit/pear.jpg",
-      "add":"../content/fruitcontent/fruitcontent.html",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"i",
       "value":"8"
 
@@ -273,7 +273,7 @@
       "species": "Fruit",
       "characteristic": "",
       "photo": "../image/imagefruit/strawberry.jpg",
-      "add":"../content/fruitcontent/fruitcontent.html",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"j",
       "value":"9"
     }]
