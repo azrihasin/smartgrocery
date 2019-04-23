@@ -200,7 +200,7 @@
       "species": "Vegetables",
       "characteristic": "",
       "photo": "../image/imagefruit/apricot.jpg",
-      "add":"../content/vegetablescontent/vegetablescontentt.html",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"b",
       "value":"1"
     },
