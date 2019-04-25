@@ -1,15 +1,25 @@
 [
 {
-  "title": "Apple",
+  "title": "Mackarel",
   "subtitle": "An Apple A Day Keep A doctor Away",
   "char1": "Red",
   "char2": "Round shaped",
   "char3": "Juicy",
   "char4":"Waxy skin",
   "picture": "apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University,[12] using 'Golden Delicious'.[13] It had about 57,000 genes, the highest number of any plant genome studied to date[14] and more genes than the human genome (about 30,000).[15] This new understanding of the apple genome will help scientists identify",
+  "desc1":" Mackerel is a family of saltwater fish composed of over 30 different species,
+  including popular varieties like Atlantic mackerel, Pacific mackerel, Spanish mackerel and king mackerel fish.
+  Available both fresh and canned, mackerel is a favorite among fish lovers thanks to its versatility,
+  flavor and incredible nutrient profile.
+   Plus, with some research indicating that regular consumption could help drop your blood pressure and cholesterol, minimize your waistline,
+   protect against depression, and keep your bones healthy and strong, mackerel fish definitely makes a great addition to any healthy, well-balanced diet.y",
 
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China.[4][8] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+  "desc2":"Mackerel is high in omega-3 fatty acids, a healthy type of fat that has been associated with a number of impressive health benefits.
+  In fact, some recent research has even found that omega-3 fatty acids may even be able to help protect against depression.
+  A review published in the journal CNS Neuroscience & Therapeutics looked at the results of three studies and showed that omega-3 fatty acids were able to
+   reduce depressive symptoms by up to 50 percent in those with major depression, bipolar disorder and childhood major depression.
+   Not only that, but other studies have found an association between lower intakes of omega-3 fatty acids and depressive symptoms.
+   Spending more time outdoors, eating plenty of probiotic-rich foods and following a well-balanced diet are some other effective natural remedies for depression ",
 
   "sticker":"applesticker.png",
   "nutrient1":"Total Fat",

@@ -1,34 +1,46 @@
 [
 {
-  "title": "Apple",
-  "subtitle": "An Apple A Day Keep A doctor Away",
-  "char1": "Red",
-  "char2": "Round shaped",
-  "char3": "Juicy",
-  "char4":"Waxy skin",
-  "picture": "apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University,[12] using 'Golden Delicious'.[13] It had about 57,000 genes, the highest number of any plant genome studied to date[14] and more genes than the human genome (about 30,000).[15] This new understanding of the apple genome will help scientists identify",
+  "title": "Tuna",
+  "subtitle": "",
+  "char1": "metallic dark blue in color",
+  "char2": "streamlined fish",
+  "char3": "stout in the middle ",
+  "char4":"underside is silvery or white",
+  "picture": "imagecontent/tuna.jpg",
+  "desc1":"Tuna fish is a very diverse saltwater fish that belongs to the Scombridae family, commonly called the mackerel group.
+  However, tuna belongs to a tribe, called Thunnini. This tribe contains 15 species of tuna, most of which are enjoyed around the world in culinary traditions.
+  This variety of fish are typically anywhere from 1 foot in length to 15 feet for a fully grown, long-lived example.
+  While most of these fish live for 3-5 years, some have been known to live for more than two decades.
+  They regularly make long migration across the oceans, sometimes thousands of miles in length, due to mating and changing seasons.
+  Tuna fish of varying species are found in all of the world oceans, and while different cultures enjoy different varieties, the health benefits are largely the same.
+  Their delicious taste, global availability, and healthy components make them an ideal replacement for red meat or for those who like to add some healthy fish variety to their diets.",
 
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China.[4][8] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+  "desc2":"The most common health benefit that is attributed to tuna fish is its significant impact on heart health.In terms of reducing coronary heart diseases, this fish has high levels of omega-3 fatty acids, which help reduce omega-6 fatty acids and LDL or bad cholesterol in the arteries and blood vessels.
+   Furthermore, it often replaces foods with high saturated fat content, further lowering the risk of heart diseases.
+The anti-inflammatory omega-3 fatty acids can help reduce blood pressure.
+ Potassium, found in tuna, is a vasodilator and is very good for lowering blood pressure.
+  Reducing hypertension can significantly boost your health by lowering the strain on your cardiovascular system.
+  This will help prevent heart attacks and strokes, as well as conditions like atherosclerosis.",
 
   "sticker":"applesticker.png",
-  "nutrient1":"Total Fat",
-  "nutrient2":"Cholestrol",
-  "nutrient3":"Sodium",
-  "nutrient4":"Potassium",
-  "nutrient5":"Total Carbohydrate",
-  "nutrient6":"Protein",
-  "nutrient7":"Calories",
-  "nutrient8":"Vitamin C",
 
-  "fact1":"0.2 g",
-  "fact2":"0 mg",
-  "fact3":"1 mg",
-  "fact4":"107 mg",
-  "fact5":"14 g",
-  "fact6":"0.3 g",
-  "fact7":"52",
-  "fact8":"7 %"
+  "nutrient1":"Energy",
+  "nutrient2":"Protein",
+  "nutrient3":"Total lipid",
+  "nutrient4":"Carbohydrate",
+  "nutrient5":"Calcium",
+  "nutrient6":"Iron",
+  "nutrient7":"Magnesium",
+  "nutrient8":"Potassium",
+
+  "fact1":"184",
+  "fact2":"29.91",
+  "fact3":"6.28",
+  "fact4":"0",
+  "fact5":"10",
+  "fact6":"1.31",
+  "fact7":"64",
+  "fact8":"323"
 
 }
 ]

@@ -1,17 +1,28 @@
 [
 {
-  "title": "Apple",
-  "subtitle": "An Apple A Day Keep A doctor Away",
-  "char1": "Red",
-  "char2": "Round shaped",
-  "char3": "Juicy",
-  "char4":"Waxy skin",
-  "picture": "apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University,[12] using 'Golden Delicious'.[13] It had about 57,000 genes, the highest number of any plant genome studied to date[14] and more genes than the human genome (about 30,000).[15] This new understanding of the apple genome will help scientists identify",
+  "title": "Pacific halibut",
+  "subtitle": "",
+  "char1": "flat, diamond-shaped bodies",
+  "char2": "mottled gray to dark brown",
+  "char3": "underside is typically white",
+  "char4":" scales are small ,",
+  "picture": "imagecontent/pacifichalibut.png",
+  "desc1":"Pacific halibut is the largest species of flatfish.
+   It is native to the North Pacific Ocean and it is fished by commercial, recreational, and subsistence fishermen.
+   Huge Pacific halibut, sometimes called barn doors, can attain a length of over 8 feet and a width of over 5 feet.
+   Halibut are born swimming like salmon, with eyes on either side of their head.
+    As they grow (by the time they are six months old), one eye migrates to the right side and the young halibut begin swimming sideways, with both eyes on the top of their bodies.
+     Their large size and delectable meat make them a popular and prized target for both sport and commercial fishermen.",
 
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China.[4][8] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+  "desc2":"Pacific halibut are one of the largest flatfish – they can weigh up to about 500 pounds and grow to more than 8 feet long.
+Males tend to be smaller than females.
+Males sexually mature when they are 8 years old, and females are able to reproduce by the age of 12.
+Depending on their size, females can have between 500,000 and 4 million eggs.
+Scientists believe females release their eggs in batches over several days during the spawning season. Eggs hatch after 12 to 20 days, dependent on water temperature.
+The larvae slowly float close to the surface, where they remain for about 6 months until they reach their adult form and settle to the bottom in shallow water.
+Larval Pacific halibut feed on zooplankton (tiny floating organisms).",
 
-  "sticker":"applesticker.png",
+  "sticker":"imagecontent/pacifichalibutsticker.png",
   "nutrient1":"Total Fat",
   "nutrient2":"Cholestrol",
   "nutrient3":"Sodium",
@@ -21,14 +32,14 @@
   "nutrient7":"Calories",
   "nutrient8":"Vitamin C",
 
-  "fact1":"0.2 g",
-  "fact2":"0 mg",
+  "fact1":"1.3g",
+  "fact2":"49mg",
   "fact3":"1 mg",
-  "fact4":"107 mg",
-  "fact5":"14 g",
-  "fact6":"0.3 g",
-  "fact7":"52",
-  "fact8":"7 %"
+  "fact4":"68mg",
+  "fact5":"0g",
+  "fact6":"19g",
+  "fact7":"91",
+  "fact8":"0 %"
 
 }
 ]

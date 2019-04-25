@@ -1,4 +1,4 @@
-var index= localStorage.getItem('data');
+var index= localStorage.getItem('datacontent');
 
 console.log( index);
 

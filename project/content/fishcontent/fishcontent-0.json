@@ -1,34 +1,38 @@
 [
 {
-  "title": "Apple",
-  "subtitle": "An Apple A Day Keep A doctor Away",
-  "char1": "Red",
-  "char2": "Round shaped",
-  "char3": "Juicy",
-  "char4":"Waxy skin",
-  "picture": "apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University,[12] using 'Golden Delicious'.[13] It had about 57,000 genes, the highest number of any plant genome studied to date[14] and more genes than the human genome (about 30,000).[15] This new understanding of the apple genome will help scientists identify",
+  "title": "Salmon",
+  "subtitle": "Salmon the healthy food",
+  "char1": "Small head",
+  "char2": "Blunt nose",
+  "char3": "Small eyes",
+  "char4":"Mouth that gapes back below its eye",
+  "picture": "imagecontent/salmon.png",
 
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China.[4][8] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+  "desc1":"Salmon varieties are usually classified by the ocean in which they are located. In the Pacific they are considered part of the genus Oncorhynchus, and in the Atlantic they belong to the genus Salmo.
+  There is only one migratory Atlantic species but five existing species of Pacific salmon: chinook (or king), sockeye (or red), coho (or silver), pink and chum.
+  Salmon flesh is typically pink but their colour can range from red to orange. The chinook and sockeye varieties are fattier than pink and chum, favourites for steaks and fillets, while coho falls somewhere in the middle.
+   Pink salmon is primarily used for canned food.
+   Chinook salmon are the largest and sockeye the smallest salmon.
+   Due to the various species parameters, cuts and fillet sizes are variable.",
 
-  "sticker":"applesticker.png",
-  "nutrient1":"Total Fat",
-  "nutrient2":"Cholestrol",
-  "nutrient3":"Sodium",
-  "nutrient4":"Potassium",
-  "nutrient5":"Total Carbohydrate",
-  "nutrient6":"Protein",
-  "nutrient7":"Calories",
-  "nutrient8":"Vitamin C",
+  "desc2":"Salmon can be purchased as either steaks or fillets, fresh, frozen, canned or smoked.
+   Fresh salmon should have smooth, moist skin. If it has been sold whole, its eyes should be bright and clear, not cloudy or sunken.
+   If you cannot eat the fresh salmon within a couple of days, it's best to freeze it.
+   Once frozen and thawed, it should not be refrozen.",
 
-  "fact1":"0.2 g",
-  "fact2":"0 mg",
-  "fact3":"1 mg",
-  "fact4":"107 mg",
-  "fact5":"14 g",
-  "fact6":"0.3 g",
-  "fact7":"52",
-  "fact8":"7 %"
+  "sticker":"imagecontent/salmonsticker.png",
+  "nutrient1":"Calories",
+  "nutrient2":"Protein",
+  "nutrient3":"Fat",
+  "nutrient4":"Saturated fat",
+  "nutrient5":"",
+  "nutrient6":"",
+  "fact2":"25 g",
+  "fact3":"14.6 g",
+  "fact4":"2.8 g",
+  "fact6":"",
+  "fact7":"",
+  "fact8":""
 
 }
 ]
