@@ -2,13 +2,15 @@ body{
     position: absolute;
     position: center;
     width:100%;
-    overflow-x: hidden !important;
+
     margin: 0 auto;
-background-color: #F8F8FF;
+    background-color: #F8F8FF;
 
   }
 
+
   .top{
+    width: 100%;
     position:absolute;
     z-index: 0;
 
@@ -145,13 +147,7 @@ background-color: #F8F8FF;
 
 
 
-  img.picturebackground{
 
-    position: center;
-    width: 1366px;
-    height:700px;
-
-  }
 
   .greenbackground{
 
@@ -177,35 +173,6 @@ background-color: #F8F8FF;
 
     }
 
-
-.d1{
-    margin-top: 100px;
-    margin-left: 300px;
-}
-.d2{
-    margin-left: -150px;
-    margin-top: -700px;
-
-}
-.d3{
-    margin-top: -650px;
-
-}
-.d4{
-    margin-top: -1050px;
-
-}
-.d5{
-  margin-top: -820px;
-  margin-left: 100px;
-  height:300px;
-
-
-}
-.d6{
-    margin-top: 250px;
-    margin-left: 950px;
-}
 
 
 
@@ -233,7 +200,7 @@ background-color: #F8F8FF;
 
 .howtouse{
   position: absolute;
-  margin-top: 790px;
+  margin-top: 1000px;
   height:800px;
 
 
@@ -324,18 +291,20 @@ a{
 
 #peppermintsticker{
   position: absolute;
-  margin-top: 1400px;
-  width: 800px;
+  margin-top: 1000px;
+  right: 0%;
+  width: 500px;
   height:800px;
   z-index:1;
-  left:780px;
+
+ overflow-x: hidden ;
 
 }
 
 
 .container{
   position: absolute;
-  margin-top: 1700px;
+  margin-top: 1800px;
   left:200px;
 
 }
@@ -442,6 +411,7 @@ padding: 10px;
   text-align: center;
   width: 100%;
   height:400px;
+  box-sizing: border-box;
 }
 
 .f1{
