@@ -35,13 +35,15 @@ var i=-1;
 
 
 function groceryTemplate(data,index) {
+
   return `
   <div class="container">
       <div id="${data.id}" class="grocery">
     <a href=${data.add}><img class="grocery-photo"  onclick="myFunction(${data.value})" src="${data.photo}"></a>
     <h2 class="grocery-name">${data.name} <br><span class="species">(${data.species})</span></h2>
 
-    <button class="a">Add to list </button>
+    <a href="../main/list.html"><button type="button" id="btn" name="button" onclick="addList('${data.name}',${data.value});" >Add to list </button></a>
+
 
         </div>
     </div>
@@ -67,4 +69,14 @@ function myFunction(val){
   var data=val;
   // Put the var into storage
   localStorage.setItem('datacontent', data);
+}
+
+function addList(item,val){
+
+
+  var data=item;
+  var i=val;
+  // Put the var into storage
+  localStorage.setItem('item', data);
+  localStorage.setItem('i', i);
 }
