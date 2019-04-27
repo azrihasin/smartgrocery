@@ -182,8 +182,7 @@
       "id":"j",
       "value":"9"
     }],
-    [
-    {
+    [{
       "name": "Bitter Gourd",
       "species": "Vegetables",
       "char1": "Green",
@@ -277,8 +276,7 @@
       "id":"j",
       "value":"9"
     }],
-    [
-    {
+    [{
       "name": "Aloe vera",
       "species": "herbs",
       "char1": "Green",
@@ -344,8 +342,7 @@
       "id":"g",
       "value":"6"
     }],
-    [
-    {
+    [{
       "name": "Bitter Gourd",
       "species": "Vegetables",
       "char1": "Green",
@@ -439,8 +436,7 @@
       "id":"j",
       "value":"9"
     }],
-    [
-    {
+    [{
       "name": "Salmon",
       "species": "Fish",
       "characteristic":"",
@@ -511,7 +507,6 @@
       "add":"../content/fishcontent/fishcontent.html",
       "id":"h",
       "value":"7"
-    },
-  ]
+    }]
 
 ]
