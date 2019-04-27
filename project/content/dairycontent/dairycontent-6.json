@@ -1,17 +1,29 @@
 [
 {
-  "title": "Apple",
-  "subtitle": "An Apple A Day Keep A doctor Away",
-  "char1": "Red",
-  "char2": "Round shaped",
-  "char3": "Juicy",
-  "char4":"Waxy skin",
-  "picture": "apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University,[12] using 'Golden Delicious'.[13] It had about 57,000 genes, the highest number of any plant genome studied to date[14] and more genes than the human genome (about 30,000).[15] This new understanding of the apple genome will help scientists identify",
+  "title": "Sour cream",
+  "subtitle": "",
+  "char1": "",
+  "char2": "",
+  "char3": "",
+  "char4":"",
+  "picture": "imagecontent/sourcream.png",
+  "desc1":"Sour cream is a dairy product which is made by fermentation of the cream with the use of lactic acid bacteria.
+   Either naturally or deliberately, the bacterial culture is introduced which helps to thicken and sour the cream.
+   The name is derived from the lactic bacteria which are used for the fermentation for souring.
+   The fermentation process helps to make the cream more acidic and also thickens it.
+   Artificially, rennet, gelatin, carrageenan and guar gum is used to sour the cream. It contains low amount of butterfat
+   from 18 to 20 percent. It is used to dress salads and baking. It is a vital ingredient used for breakfast.
+   Sour cream is used as a condiment in soups. It is called la crema agria in Spanish. Traditional or Regular Sour Cream,
+   Reduced Fat Sour Cream and Non-fat Sour Cream are the three varieties of Sour cream which are available in the food stores.",
 
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China.[4][8] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+  "desc2":"Sour cream contains adequate amount of nutrients.
+  The high content of fat provides more energy. It has high content of minerals such as phosphorus and calcium.
+  It is added to soups, bakes, pastry, roasts, stews, creams, jellies, sweet and salty pastry fillings.
+  Phosphorus helps to maintain the health of teeth and bones. It is essential for maintaining strong bones.
+  It promotes the gum health and enamel of tooth. It relieves the conditions such as loss of mineral density and bone
+  loss such as osteoporosis. Phosphorus is associated with heart health and prevents the cardiovascular ailments.",
 
-  "sticker":"applesticker.png",
+  "sticker":"imagecontent/sourcream.png",
   "nutrient1":"Total Fat",
   "nutrient2":"Cholestrol",
   "nutrient3":"Sodium",
@@ -21,14 +33,14 @@
   "nutrient7":"Calories",
   "nutrient8":"Vitamin C",
 
-  "fact1":"0.2 g",
-  "fact2":"0 mg",
-  "fact3":"1 mg",
-  "fact4":"107 mg",
-  "fact5":"14 g",
-  "fact6":"0.3 g",
-  "fact7":"52",
-  "fact8":"7 %"
+  "fact1":"20 g",
+  "fact2":"52 mg",
+  "fact3":"80 mg",
+  "fact4":"141 mg",
+  "fact5":"2.9 g",
+  "fact6":" 2.1 g",
+  "fact7":"193",
+  "fact8":"1%"
 
 }
 ]

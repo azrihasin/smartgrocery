@@ -1,17 +1,25 @@
 [
 {
-  "title": "Apple",
-  "subtitle": "An Apple A Day Keep A doctor Away",
-  "char1": "Red",
-  "char2": "Round shaped",
-  "char3": "Juicy",
-  "char4":"Waxy skin",
-  "picture": "apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University,[12] using 'Golden Delicious'.[13] It had about 57,000 genes, the highest number of any plant genome studied to date[14] and more genes than the human genome (about 30,000).[15] This new understanding of the apple genome will help scientists identify",
+  "title": "Cottage",
+  "subtitle": "",
+  "char1": "",
+  "char2": "",
+  "char3": "",
+  "char4":"",
+  "picture": "imagecontent/cottage.png",
+  "desc1":"Cottage cheese, also known as curds and whey, is a fresh cheese curd product with a mild flavor.
+   It does not have any added color and is not aged. It is made not by pressing the cheese but by draining it,
+    which allows some of the whey to stay which keeps the curds loose.Cottage cheese is low in food energy compared to
+    some other types of cheese. As a result, it is popular among dieters and some health devotees. It can be used in a wide variety of foods such as yogurt, fruit, toast, granola, in salads, as a dip, and as a replacement for mayonnaise.
+    Cottage cheese dates back to the ancient Mesopotamia 3100–510 BC, where it was first found accidentally made in a sheep's stomach bag. It was later made in cottages using leftover milk. During World War 1, it was widely promoted in the United States, in order to save meat for infantry rations.",
 
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China.[4][8] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+  "desc2":"The nutritional levels of cottage cheese vary depending on the level of milk fat used and how much sodium is added.
+Cottage cheese is popular among dieters and some health food devotees. It is also a favorite food among bodybuilders,
+runners, swimmers, and weightlifters for its high content of casein protein (a long-lasting protein) while being relatively
+low in fat. Pregnant women are advised that cottage cheese is safe to eat,
+in contrast to some cheese products that are not recommended during pregnancy.",
 
-  "sticker":"applesticker.png",
+  "sticker":"imagecontent/cottage.png",
   "nutrient1":"Total Fat",
   "nutrient2":"Cholestrol",
   "nutrient3":"Sodium",
@@ -21,14 +29,14 @@
   "nutrient7":"Calories",
   "nutrient8":"Vitamin C",
 
-  "fact1":"0.2 g",
-  "fact2":"0 mg",
-  "fact3":"1 mg",
-  "fact4":"107 mg",
-  "fact5":"14 g",
-  "fact6":"0.3 g",
-  "fact7":"52",
-  "fact8":"7 %"
+  "fact1":"4.3 g",
+  "fact2":"17 mg",
+  "fact3":"364 mg",
+  "fact4":"104 mg",
+  "fact5":"3.4g",
+  "fact6":"11 g",
+  "fact7":"98",
+  "fact8":"0%"
 
 }
 ]

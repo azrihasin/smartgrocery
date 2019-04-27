@@ -1,17 +1,39 @@
 [
 {
-  "title": "Apple",
-  "subtitle": "An Apple A Day Keep A doctor Away",
-  "char1": "Red",
-  "char2": "Round shaped",
-  "char3": "Juicy",
-  "char4":"Waxy skin",
-  "picture": "apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University,[12] using 'Golden Delicious'.[13] It had about 57,000 genes, the highest number of any plant genome studied to date[14] and more genes than the human genome (about 30,000).[15] This new understanding of the apple genome will help scientists identify",
+  "title": "Cheese",
+  "subtitle": "",
+  "char1": "",
+  "char2": "",
+  "char3": "",
+  "char4":"",
+  "picture": "imagecontent/cheese.png",
+  "desc1":"Cheese is a dairy product derived from milk that is produced in a wide range of flavors,
+  textures, and forms by coagulation of the milk protein casein. It comprises proteins and fat from milk,
+  usually the milk of cows, buffalo, goats, or sheep.
+  During production, the milk is usually acidified, and adding the enzyme rennet causes coagulation.
+  The solids are separated and pressed into final form.
+  Some cheeses have molds on the rind, the outer layer, or throughout.
+  Most cheeses melt at cooking temperature.
 
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China.[4][8] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+  Over a thousand types of cheese from various countries are produced.
+  Their styles, textures and flavors depend on the origin of the milk (including the animal's diet),
+  whether they have been pasteurized, the butterfat content, the bacteria and mold, the processing, and aging.
+  Herbs, spices, or wood smoke may be used as flavoring agents.
+  The yellow to red color of many cheeses, such as Red Leicester,
+  is produced by adding annatto. Other ingredients may be added to some cheeses, such as black pepper,
+  garlic, chives or cranberries.",
 
-  "sticker":"applesticker.png",
+  "desc2":"For a few cheeses, the milk is curdled by adding acids such as vinegar or lemon juice.
+   Most cheeses are acidified to a lesser degree by bacteria, which turn milk sugars into lactic acid,
+   then the addition of rennet completes the curdling.
+  Cheesemakers near a dairy region may benefit from fresher, lower-priced milk, and lower shipping costs.
+  Cheese is valued for its portability, long life, and high content of fat, protein, calcium, and phosphorus.
+   Cheese is more compact and has a longer shelf life than milk, although how long a cheese will keep depends on the type of cheese
+   labels on packets of cheese often claim that a cheese should be consumed within three to five days of opening.
+ Generally speaking, hard cheeses, such as Parmesan last longer than soft cheeses, such as Brie or goat's milk cheese.
+  The long storage life of some cheeses, especially when encased in a protective rind, allows selling when markets are favorable.",
+
+  "sticker":"imagecontent/cheese.png",
   "nutrient1":"Total Fat",
   "nutrient2":"Cholestrol",
   "nutrient3":"Sodium",
@@ -21,14 +43,14 @@
   "nutrient7":"Calories",
   "nutrient8":"Vitamin C",
 
-  "fact1":"0.2 g",
-  "fact2":"0 mg",
-  "fact3":"1 mg",
-  "fact4":"107 mg",
-  "fact5":"14 g",
-  "fact6":"0.3 g",
-  "fact7":"52",
-  "fact8":"7 %"
+  "fact1":"33 g",
+  "fact2":"105 mg",
+  "fact3":"621 mg",
+  "fact4":"98 mg",
+  "fact5":"1.3 g",
+  "fact6":" 25 g",
+  "fact7":"402",
+  "fact8":"0%"
 
 }
 ]
