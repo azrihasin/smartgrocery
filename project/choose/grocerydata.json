@@ -95,7 +95,7 @@
       "name": "Butter",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/butter.jpg",
+      "photo": "../image/imagedairy/butter.png",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"a",
       "value":"0"
@@ -104,7 +104,7 @@
       "name": "Butterfat",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/butterfat.jpg",
+      "photo": "../image/imagedairy/butterfat.png",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"b",
       "value":"1"
@@ -113,7 +113,7 @@
       "name": "Cheese",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/cheese.jpg",
+      "photo": "../image/imagedairy/cheese.png",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"c",
       "value":"2"
@@ -122,7 +122,7 @@
         "name": "Cottage",
       "species": "dairy",
       "characteristic":"",
-      "photo": "../image/imagedairy/cottage.jpg",
+      "photo": "../image/imagedairy/cottage.png",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"d",
       "value":"3"
@@ -131,7 +131,7 @@
       "name": "Custard",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/custard.jpg",
+      "photo": "../image/imagedairy/custard.png",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"e",
       "value":"4"
@@ -141,7 +141,7 @@
       "name": "Milk",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/milk.jpg",
+      "photo": "../image/imagedairy/milk.png",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"f",
       "value":"5"
@@ -150,7 +150,7 @@
       "name": "Sourcecream",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/sourcream.jpg",
+      "photo": "../image/imagedairy/sourcream.png",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"g",
       "value":"6"
@@ -159,7 +159,7 @@
       "name": "Yogurt",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/yogurt.jpg",
+      "photo": "../image/imagedairy/yogurt.png",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"h",
       "value":"7"
@@ -168,7 +168,7 @@
       "name": "BlueCheese",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/bluecheese.jpg",
+      "photo": "../image/imagedairy/bluecheese.png",
       "add":"../content/dairycontent/dairycontentt.html",
       "id":"i",
       "value":"8"
@@ -177,7 +177,7 @@
       "name": "Coulemeries",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/coulemeries.jpg",
+      "photo": "../image/imagedairy/coulemeries.png",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"j",
       "value":"9"
