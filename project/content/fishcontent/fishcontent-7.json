@@ -1,17 +1,25 @@
 [
 {
-  "title": "Apple",
-  "subtitle": "An Apple A Day Keep A doctor Away",
-  "char1": "Red",
-  "char2": "Round shaped",
-  "char3": "Juicy",
-  "char4":"Waxy skin",
-  "picture": "apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University,[12] using 'Golden Delicious'.[13] It had about 57,000 genes, the highest number of any plant genome studied to date[14] and more genes than the human genome (about 30,000).[15] This new understanding of the apple genome will help scientists identify",
+  "title": "Herring",
+  "subtitle": "",
+  "char1": "silvery-coloured fish",
+  "char2": " single dorsal fin",
+  "char3": "soft",
+  "char4":"without spines",
+  "picture": "imagecontent/herring.jpg",
+  "desc1":"Herring is a general term for various foraging fish from the family Clupeidae who are commonly found in the northern regions of the Pacific and Atlantic.
+  They are often found near the northern coasts in large schools, as well as along the South American coast.
+  The three most common types of this fish include the Atlantic, Pacific, and Araucanian varieties, but there are also a few dozen other species
+   that are frequently referred to as herring.
+   When it comes to taste, these fish are very salty and oily and are typically salted, drained, and then mixed with a sweet-and-sour solution in a can.
+    While they physically resemble silver sardines and belong to the same taxonomic family, they are not the same fish and have some key differences.
+    They are generally considered healthy when consumed in moderation.",
 
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China.[4][8] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+  "desc2":"In terms of nutrition, a 3-ounce serving delivers approximately 135 calories, 15 grams of protein, and 8 grams of fat, but only 20% of that is of the saturated variety.
+  These fish are also high in selenium, omega 3 fatty acids, B vitamins, vitamin D, iron, magnesium, calcium, and potassium.The many health benefits of herring include Improve heart health
+  balance cholesterol levels,Reduce arthritis symptoms,Boost eye health,Aid skin appearance,Stimulate brain function,Lower risk of metabolic syndrome,Promote red blood cell production",
 
-  "sticker":"applesticker.png",
+  "sticker":"imagecontent/herringsticker.png",
   "nutrient1":"Total Fat",
   "nutrient2":"Cholestrol",
   "nutrient3":"Sodium",
@@ -22,13 +30,13 @@
   "nutrient8":"Vitamin C",
 
   "fact1":"0.2 g",
-  "fact2":"0 mg",
-  "fact3":"1 mg",
-  "fact4":"107 mg",
-  "fact5":"14 g",
-  "fact6":"0.3 g",
-  "fact7":"52",
-  "fact8":"7 %"
+  "fact2":"	77 mg",
+  "fact3":"	74 mg",
+  "fact4":"423 mg",
+  "fact5":"	0",
+  "fact6":"16.39g",
+  "fact7":"39 ",
+  "fact8":"0"
 
 }
 ]

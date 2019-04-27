@@ -1,12 +1,12 @@
 [
 {
-  "title": "Mackarel",
-  "subtitle": "An Apple A Day Keep A doctor Away",
-  "char1": "Red",
-  "char2": "Round shaped",
-  "char3": "Juicy",
-  "char4":"Waxy skin",
-  "picture": "apple.jpg",
+  "title": "Mackerel",
+  "subtitle": "",
+  "char1": "vertical stripes on their backs",
+  "char2": " deeply forked tails",
+  "char3": "slimmer than tuna",
+  "char4":"cylindrical with numerous finlets",
+  "picture": "imagecontent/mackerel.jpg",
   "desc1":" Mackerel is a family of saltwater fish composed of over 30 different species,
   including popular varieties like Atlantic mackerel, Pacific mackerel, Spanish mackerel and king mackerel fish.
   Available both fresh and canned, mackerel is a favorite among fish lovers thanks to its versatility,
@@ -21,7 +21,7 @@
    Not only that, but other studies have found an association between lower intakes of omega-3 fatty acids and depressive symptoms.
    Spending more time outdoors, eating plenty of probiotic-rich foods and following a well-balanced diet are some other effective natural remedies for depression ",
 
-  "sticker":"applesticker.png",
+  "sticker":"imagecontent/mackerelsticker.png",
   "nutrient1":"Total Fat",
   "nutrient2":"Cholestrol",
   "nutrient3":"Sodium",
@@ -31,14 +31,14 @@
   "nutrient7":"Calories",
   "nutrient8":"Vitamin C",
 
-  "fact1":"0.2 g",
-  "fact2":"0 mg",
-  "fact3":"1 mg",
-  "fact4":"107 mg",
-  "fact5":"14 g",
-  "fact6":"0.3 g",
-  "fact7":"52",
-  "fact8":"7 %"
+  "fact1":"18 g",
+  "fact2":" 75 mg",
+  "fact3":"83 mg",
+  "fact4":"401 mg",
+  "fact5":"0",
+  "fact6":"24 g",
+  "fact7":"262",
+  "fact8":"0%"
 
 }
 ]
