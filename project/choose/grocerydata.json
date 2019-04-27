@@ -190,6 +190,168 @@
       "char2": "Long shaped",
       "char3": "Bitter",
       "char4": "",
+      "photo": "../image/imagefruit/bittergroud1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"a",
+      "value":"0"
+    },
+    {
+      "name": "Cabbage",
+      "species": "Vegetables",
+      "characteristic": "",
+      "photo": "../image/imagefruit/cabbage1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"b",
+      "value":"1"
+    },
+    {
+      "name": "Carrots",
+      "species": "Vegetables",
+      "characteristic": "",
+      "photo": "../image/imagefruit/carrotss1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"c",
+      "value":"2"
+    },
+    {
+      "name": "Cucumbers",
+      "species": "Vegetables",
+      "characteristic":"",
+      "photo": "../image/imagefruit/cucumber1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"d",
+      "value":"3"
+    },
+    {
+      "name": "Lettuce",
+      "species": "Vegetables",
+      "characteristic": "",
+      "photo": "../image/imagefruit/lettuce1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"e",
+      "value":"4"
+    },
+    {
+      "name": "Long Beans",
+      "species": "Vegetables",
+      "characteristic": "",
+      "photo": "../image/imagefruit/longbean1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"f",
+      "value":"5"
+    },
+    {
+      "name": "Potatoes",
+      "species": "Vegetables",
+      "characteristic": "",
+      "photo": "../image/imagefruit/potato1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"g",
+      "value":"6"
+    },
+    {
+      "name": "Pumpkin",
+      "species": "Vegetables",
+      "characteristic": "",
+      "photo": "../image/imagefruit/pumpkin2.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"h",
+      "value":"7"
+    },
+    {
+      "name": "Tomatoes",
+      "species": "Vegetables",
+      "characteristic": "",
+      "photo": "../image/imagefruit/tomato1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"i",
+      "value":"8"
+
+    },
+    {
+      "name": "Kangkung",
+      "species": "Vegetables",
+      "characteristic": "",
+      "photo": "../image/imagefruit/kangkung1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"j",
+      "value":"9"
+    }],
+    [
+    {
+      "name": "Aloe vera",
+      "species": "herbs",
+      "char1": "Green",
+      "char2": "Long shaped",
+      "char3": "Bitter",
+      "char4": "",
+      "photo": "../image/imagefruit/aloeVera1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"a",
+      "value":"0"
+    },
+    {
+      "name": "Balloon vines",
+      "species": "Vegetables",
+      "characteristic": "",
+      "photo": "../image/imagefruit/ballonVine1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"b",
+      "value":"1"
+    },
+    {
+      "name": "Cat's whiskers",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/catWhiskers1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"c",
+      "value":"2"
+    },
+    {
+      "name": "Hibiscus",
+      "species": "Fruit",
+      "characteristic":"",
+      "photo": "../image/imagefruit/hibiscus1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"d",
+      "value":"3"
+    },
+    {
+      "name": "Holy basil",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/holyBasil1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"e",
+      "value":"4"
+    },
+    {
+      "name": "Indian Borage",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/indianBorage1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"f",
+      "value":"5"
+    },
+    {
+      "name": "Lemon Grass",
+      "species": "Fruit",
+      "characteristic": "",
+      "photo": "../image/imagefruit/lemonGrass1.jpg",
+      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "id":"g",
+      "value":"6"
+    }],
+    [
+    {
+      "name": "Bitter Gourd",
+      "species": "Vegetables",
+      "char1": "Green",
+      "char2": "Long shaped",
+      "char3": "Bitter",
+      "char4": "",
       "photo": "../image/imagefruit/apple.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"a",
@@ -276,5 +438,80 @@
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"j",
       "value":"9"
-    }]
+    }],
+    [
+    {
+      "name": "Salmon",
+      "species": "Fish",
+      "characteristic":"",
+      "photo": "../image/imagefish/salmon.png",
+      "add":"../content/fishcontent/fishcontent.html",
+      "id":"a",
+      "value":"0"
+    },
+    {
+      "name": "Tuna",
+      "species": "Fish",
+      "characteristic": "",
+      "photo": "../image/imagefish/tuna.jpg",
+      "add":"../content/fishcontent/fishcontent.html",
+      "id":"b",
+      "value":"1"
+    },
+    {
+      "name": "Rainbow Trout",
+      "species": "Fish",
+      "characteristic": "",
+      "photo": "../image/imagefish/rainbowtrout.png",
+      "add":"../content/fishcontent/fishcontent.html",
+      "id":"c",
+      "value":"2"
+    },
+    {
+      "name": "Pacific Halibut",
+      "species": "Fish",
+      "characteristic":"",
+      "photo": "../image/imagefish/pacifichalibut.png",
+      "add":"../content/fishcontent/fishcontent.html",
+      "id":"d",
+      "value":"3"
+    },
+    {
+      "name": "Mackerel",
+      "species": "Fish",
+      "characteristic": "",
+      "photo": "../image/imagefish/mackerel.jpg",
+      "add":"../content/fishcontent/fishcontent.html",
+      "id":"e",
+      "value":"4"
+    },
+    {
+      "name": "Cod fish",
+      "species": "Fish",
+      "characteristic": "",
+      "photo": "../image/imagefish/cod.jpg",
+      "add":"../content/fishcontent/fishcontent.html",
+      "id":"f",
+      "value":"5"
+    },
+    {
+      "name": "Sardines",
+      "species": "Fish",
+      "characteristic": "",
+      "photo": "../image/imagefish/sardines.png",
+      "add":"../content/fishcontent/fishcontent.html",
+      "id":"g",
+      "value":"6"
+    },
+    {
+      "name": "Herring",
+      "species": "Fish",
+      "characteristic": "",
+      "photo": "../image/imagefish/herring.jpg",
+      "add":"../content/fishcontent/fishcontent.html",
+      "id":"h",
+      "value":"7"
+    },
+  ]
+
 ]
