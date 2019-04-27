@@ -150,7 +150,7 @@
       "name": "Sourcecream",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/sour cream.jpg",
+      "photo": "../image/imagedairy/sourcream.jpg",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"g",
       "value":"6"
@@ -168,16 +168,16 @@
       "name": "BlueCheese",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/blueCheese.jpg",
+      "photo": "../image/imagedairy/bluecheese.jpg",
       "add":"../content/dairycontent/dairycontentt.html",
       "id":"i",
       "value":"8"
     },
     {
-      "name": "Collemeriers",
+      "name": "Coulemeries",
       "species": "dairy",
       "characteristic": "",
-      "photo": "../image/imagedairy/collemeriers.jpg",
+      "photo": "../image/imagedairy/coulemeries.jpg",
       "add":"../content/dairycontent/dairycontent.html",
       "id":"j",
       "value":"9"
@@ -189,7 +189,7 @@
       "char2": "Long shaped",
       "char3": "Bitter",
       "char4": "",
-      "photo": "../image/imagefruit/bittergroud1.jpg",
+      "photo": "../image/imagevegetables/bittergroud1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"a",
       "value":"0"
@@ -198,7 +198,7 @@
       "name": "Cabbage",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagefruit/cabbage1.jpg",
+      "photo": "../image/imagevegetables/cabbage1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"b",
       "value":"1"
@@ -207,7 +207,7 @@
       "name": "Carrots",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagefruit/carrotss1.jpg",
+      "photo": "../image/imagevegetables/carrotss1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"c",
       "value":"2"
@@ -216,7 +216,7 @@
       "name": "Cucumbers",
       "species": "Vegetables",
       "characteristic":"",
-      "photo": "../image/imagefruit/cucumber1.jpg",
+      "photo": "../image/imagevegetables/cucumber1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"d",
       "value":"3"
@@ -225,7 +225,7 @@
       "name": "Lettuce",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagefruit/lettuce1.jpg",
+      "photo": "../image/imagevegetables/lettuce1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"e",
       "value":"4"
@@ -234,7 +234,7 @@
       "name": "Long Beans",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagefruit/longbean1.jpg",
+      "photo": "../image/imagevegetables/longbean1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"f",
       "value":"5"
@@ -243,7 +243,7 @@
       "name": "Potatoes",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagefruit/potato1.jpg",
+      "photo": "../image/imagevegetables/potato1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"g",
       "value":"6"
@@ -252,7 +252,7 @@
       "name": "Pumpkin",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagefruit/pumpkin2.jpg",
+      "photo": "../image/imagevegetables/pumpkin2.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"h",
       "value":"7"
@@ -261,7 +261,7 @@
       "name": "Tomatoes",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagefruit/tomato1.jpg",
+      "photo": "../image/imagevegetables/tomato1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"i",
       "value":"8"
@@ -271,7 +271,7 @@
       "name": "Kangkung",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagefruit/kangkung1.jpg",
+      "photo": "../image/imagevegetables/kangkung1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"j",
       "value":"9"
@@ -283,7 +283,7 @@
       "char2": "Long shaped",
       "char3": "Bitter",
       "char4": "",
-      "photo": "../image/imagefruit/aloeVera1.jpg",
+      "photo": "../image/imagespice/aloeVera1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"a",
       "value":"0"
@@ -292,7 +292,7 @@
       "name": "Balloon vines",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagefruit/ballonVine1.jpg",
+      "photo": "../image/imagespice/ballonVine1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"b",
       "value":"1"
@@ -301,7 +301,7 @@
       "name": "Cat's whiskers",
       "species": "Fruit",
       "characteristic": "",
-      "photo": "../image/imagefruit/catWhiskers1.jpg",
+      "photo": "../image/imagespice/catWhiskers1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"c",
       "value":"2"
@@ -310,7 +310,7 @@
       "name": "Hibiscus",
       "species": "Fruit",
       "characteristic":"",
-      "photo": "../image/imagefruit/hibiscus1.jpg",
+      "photo": "../image/imagespice/hibiscus1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"d",
       "value":"3"
@@ -319,7 +319,7 @@
       "name": "Holy basil",
       "species": "Fruit",
       "characteristic": "",
-      "photo": "../image/imagefruit/holyBasil1.jpg",
+      "photo": "../image/imagespice/holyBasil1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"e",
       "value":"4"
@@ -328,7 +328,7 @@
       "name": "Indian Borage",
       "species": "Fruit",
       "characteristic": "",
-      "photo": "../image/imagefruit/indianBorage1.jpg",
+      "photo": "../image/imagespice/indianBorage1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"f",
       "value":"5"
@@ -337,7 +337,7 @@
       "name": "Lemon Grass",
       "species": "Fruit",
       "characteristic": "",
-      "photo": "../image/imagefruit/lemonGrass1.jpg",
+      "photo": "../image/imagespice/lemonGrass1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"g",
       "value":"6"
