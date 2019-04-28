@@ -19,6 +19,7 @@
     "nutrient5": "Phosphorus",
     "nutrient6": "Iron",
     "nutrient 7": "Sodium",
+    "nutrient 8": "Protein",
 
     "fact1": "50 mcg",
     "fact2": "0.15 mg",
@@ -26,6 +27,7 @@
     "fact4": "11 mg",
     "fact5": "28 mg",
     "fact6": "0.6 mg",
-    "fact7": "29 mg"
+    "fact7": "29 mg",
+    "fact8": "12 mg"
   }
 ]
