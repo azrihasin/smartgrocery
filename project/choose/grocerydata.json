@@ -22,7 +22,7 @@
     "name": "Banana",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/banana.png",
+    "photo": "../image/imagefruit/banana.jpg",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"c",
     "value":"2"
@@ -49,7 +49,7 @@
     "name": "Mango",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/mango.png",
+    "photo": "../image/imagefruit/mango.jpg",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"f",
     "value":"5"
@@ -67,7 +67,7 @@
     "name": "Pineapple",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/pineapple.png",
+    "photo": "../image/imagefruit/pineapple.jpg",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"h",
     "value":"7"
