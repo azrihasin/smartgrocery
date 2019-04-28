@@ -4,16 +4,16 @@
     "name": "Apple",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/apple.jpg",
+    "photo": "../image/imagefruit/apple.png",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"a",
     "value":"0"
   },
   {
-    "name": "Apricot",
+    "name": "Coconut",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/apricot.jpg",
+    "photo": "../image/imagefruit/coconut.png",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"b",
     "value":"1"
@@ -22,74 +22,65 @@
     "name": "Banana",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/banana.jpg",
+    "photo": "../image/imagefruit/banana.png",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"c",
     "value":"2"
   },
   {
-    "name": "Grapefruit",
+    "name": "Guava",
     "species": "Fruit",
     "characteristic":"",
-    "photo": "../image/imagefruit/grapefruit.jpg",
+    "photo": "../image/imagefruit/guava.png",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"d",
     "value":"3"
   },
   {
-    "name": "Kiwi",
+    "name": "Maize",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/kiwi.jpg",
+    "photo": "../image/imagefruit/maize.png",
     "add":"../content/fruitcontent/fruitcontentt.html",
     "id":"e",
     "value":"4"
   },
   {
-    "name": "Nectarine",
+    "name": "Mango",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/nectarine.jpg",
+    "photo": "../image/imagefruit/mango.png",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"f",
     "value":"5"
   },
   {
-    "name": "Oranges",
+    "name": "Papaya",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/oranges.jpg",
+    "photo": "../image/imagefruit/papaya.png",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"g",
     "value":"6"
   },
   {
-    "name": "Peach",
+    "name": "Pineapple",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/peach.jpg",
+    "photo": "../image/imagefruit/pineapple.png",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"h",
     "value":"7"
   },
   {
-    "name": "Pear",
+    "name": "Rambutan",
     "species": "Fruit",
     "characteristic": "",
-    "photo": "../image/imagefruit/pear.jpg",
+    "photo": "../image/imagefruit/rambutan.png",
     "add":"../content/fruitcontent/fruitcontent.html",
     "id":"i",
     "value":"8"
 
-  },
-  {
-    "name": "Strawberry",
-    "species": "Fruit",
-    "characteristic": "",
-    "photo": "../image/imagefruit/strawberry.jpg",
-    "add":"../content/fruitcontent/fruitcontent.html",
-    "id":"j",
-    "value":"9"
   }],
   [{
       "name": "Butter",
