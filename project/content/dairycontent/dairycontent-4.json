@@ -7,19 +7,9 @@
   "char3": "",
   "char4":"",
   "picture": "imagecontent/custard.png",
-  "desc1":"Custard is a variety of culinary preparations based on milk or cream cooked with egg yolk to thicken it,
-  and sometimes also flour, corn starch, or gelatin. Depending on the recipe,
-  custard may vary in consistency from a thin pouring sauce to the thick pastry cream .
-  The most common custards are used in desserts or dessert sauces
-  and typically include sugar and vanilla.",
+  "desc1":"Custard is a variety of culinary preparations based on milk or cream cooked with egg yolk to thicken it and sometimes also flour, corn starch, or gelatin. Depending on the recipe custard may vary in consistency from a thin pouring sauce to the thick pastry cream . The most common custards are used in desserts or dessert sauce and typically include sugar and vanilla.",
 
-  "desc2":"Boiled custard may omit the white of the egg. It is cooked slowly over hot water until it reaches the consistency of thick cream.
-  Also called crème anglais, boiled custard may be used as a sauce with fruits and pastries or incorporated into desserts such as
-  trifle or rice pudding. The richest ice creams are made with a custard base.
-  the egg whites in this case are sometimes beaten stiffly and the custard folded into them.
-  Bavarian creams are custards stiffened with gelatin.Savoury custards are sometimes encountered,
-  the most notable being quiche, a French tart with a filling of custard flavoured with cheese,
-  onions, ham or bacon, or chopped vegetables.",
+  "desc2":"Boiled custard may omit the white of the egg. It is cooked slowly over hot water until it reaches the consistency of thick cream  Also called crème anglais, boiled custard may be used as a sauce with fruits and pastries or incorporated into desserts such as trifle or rice pudding. The richest ice creams are made with a custard base. the egg whites in this case are sometimes beaten stiffly and the custard folded into them. Bavarian creams are custards stiffened with gelatin.Savoury custards are sometimes encountered, the most notable being quiche, a French tart with a filling of custard flavoured with cheese  onions, ham or bacon, or chopped vegetables.",
 
   "sticker":"imagecontent/custard.png",
   "nutrient1":"Total Fat",
