@@ -7,26 +7,9 @@
   "char3": "",
   "char4":"",
   "picture": "imagecontent/yogurt.png",
-  "desc1":"Yogurt , also spelled yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.
-  The bacteria used to make yogurt are known as yogurt cultures.
-  The fermentation of lactose by these bacteria produces lactic acid, which acts on milk protein to give yogurt its
-  texture and characteristic tart flavor.
-   Cow's milk is commonly available worldwide and, as such, is the milk most commonly used to make yogurt.
-    Milk from water buffalo, goats, ewes, mares, camels, and yaks is also used to produce yogurt where available locally.
-    The milk used may be homogenized or not, even pasteurized or raw. Each type of milk produces substantially different results.
-Yogurt is produced using a culture of Lactobacillus delbrueckii subsp. bulgaricus and Streptococcus thermophilus bacteria.
-In addition, other lactobacilli and bifidobacteria are sometimes added during or after culturing yogurt.
- Some countries require yogurt to contain a certain amount of colony-forming units of bacteria in China,
-  for example, the requirement for the number of lactobacillus bacteria is at least 1 million CFU per milliliter.",
+  "desc1":"Yogurt , also spelled yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk. The bacteria used to make yogurt are known as yogurt cultures. The fermentation of lactose by these bacteria produces lactic acid, which acts on milk protein to give yogurt its texture and characteristic tart flavor.Cow's milk is commonly available worldwide and, as such, is the milk most commonly used to make yogurt Milk from water buffalo, goats, ewes, mares, camels, and yaks is also used to produce yogurt where available locally The milk used may be homogenized or not, even pasteurized or raw. Each type of milk produces substantially different results Yogurt is produced using a culture of Lactobacillus delbrueckii subsp. bulgaricus and Streptococcus thermophilus bacteria. In addition, other lactobacilli and bifidobacteria are sometimes added during or after culturing yogurt. Some countries require yogurt to contain a certain amount of colony-forming units of bacteria in China, for example, the requirement for the number of lactobacillus bacteria is at least 1 million CFU per milliliter.",
 
-  "desc2":"Yogurt made its way through centuries, spreading all around the world.
-  Yogurt was introduced into Western Europe in the 16th century by the King of France,
-   Francois the 1st, after he was given it as a treatment for severe diarrhea, by a doctor from Turkey.
-   Before anything was known about bacteria, lactose in milk was converted to lactic acid thanks to starter cultures,
-   thus prevent milk from pathogens. This transformation was operated by inoculating fresh milk with small amounts of sour milk.
-    For people living in precarious conditions, such fermented dairy products were a safe habit to preserve milk.
-In 1909, Nobel Prize-winner Elie Metchnikoff suggested that ageing is caused by toxic bacteria in the gut and that lactic acid
- could extend life",
+  "desc2":"Yogurt made its way through centuries, spreading all around the world. Yogurt was introduced into Western Europe in the 16th century by the King of France, Francois the 1st, after he was given it as a treatment for severe diarrhea, by a doctor from Turkey.  Before anything was known about bacteria, lactose in milk was converted to lactic acid thanks to starter cultures,  thus prevent milk from pathogens. This transformation was operated by inoculating fresh milk with small amounts of sour milk.  For people living in precarious conditions, such fermented dairy products were a safe habit to preserve milk In 1909, Nobel Prize-winner Elie Metchnikoff suggested that ageing is caused by toxic bacteria in the gut and that lactic acidcould extend life",
 
   "sticker":"imagecontent/yogurt.png",
   "nutrient1":"Total Fat",
