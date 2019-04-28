@@ -400,7 +400,7 @@
       "name": "Venison",
       "species": "Meat",
       "characteristic": "",
-      "photo": "../image/imagemeat/venison.jpeg",
+      "photo": "../image/imagemeat/deer.jpg",
       "add":"../content/meatcontent/meatcontent.html",
       "id":"h",
       "value":"7"
