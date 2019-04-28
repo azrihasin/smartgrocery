@@ -18,12 +18,16 @@
     "nutrient4": "Vitamin A",
     "nutrient5": "Vitamin B",
     "nutrient6": "Vitamin C",
+    "nutrient7": "Sodium",
+    "nutrient8": "Carbohydrate",
 
     "fact1": "1.5 g",
     "fact2": "11 mg",
     "fact3": "0.7 mg",
     "fact4": "193 mg",
     "fact5": "0.1 mg",
-    "fact6": "71 mg"
+    "fact6": "71 mg",
+    "fact7": "14 mg",
+    "fact8": "18 mg"
   }
 ]
