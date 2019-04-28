@@ -189,7 +189,7 @@
       "char2": "Long shaped",
       "char3": "Bitter",
       "char4": "",
-      "photo": "../image/imagevegetables/bittergroud1.jpg",
+      "photo": "../image/imagevegetables/bittergourd1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"a",
       "value":"0"
@@ -207,7 +207,7 @@
       "name": "Carrots",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagevegetables/carrotss1.jpg",
+      "photo": "../image/imagevegetables/carrot1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"c",
       "value":"2"
@@ -283,7 +283,7 @@
       "char2": "Long shaped",
       "char3": "Bitter",
       "char4": "",
-      "photo": "../image/imagespice/aloeVera1.jpg",
+      "photo": "../image/imagespice/aloeVera1.png",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"a",
       "value":"0"
@@ -292,7 +292,7 @@
       "name": "Balloon vines",
       "species": "Vegetables",
       "characteristic": "",
-      "photo": "../image/imagespice/ballonVine1.jpg",
+      "photo": "../image/imagespice/balloonVine1.jpg",
       "add":"../content/vegetablescontent/vegetablescontent.html",
       "id":"b",
       "value":"1"
@@ -494,7 +494,7 @@
       "name": "Sardines",
       "species": "Fish",
       "characteristic": "",
-      "photo": "../image/imagefish/sardines.png",
+      "photo": "../image/imagefish/sardines.jpg",
       "add":"../content/fishcontent/fishcontent.html",
       "id":"g",
       "value":"6"
