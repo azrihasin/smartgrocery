@@ -160,7 +160,7 @@
       "species": "dairy",
       "characteristic": "",
       "photo": "../image/imagedairy/bluecheese.png",
-      "add":"../content/dairycontent/dairycontentt.html",
+      "add":"../content/dairycontent/dairycontent.html",
       "id":"i",
       "value":"8"
     },
