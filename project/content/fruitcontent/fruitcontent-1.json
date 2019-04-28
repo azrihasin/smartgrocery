@@ -1,34 +1,29 @@
 [
-{
-  "title": "Apple",
-  "subtitle": "An Apple A Day Keep A doctor Away",
-  "char1": "Red",
-  "char2": "Round shaped",
-  "char3": "Juicy",
-  "char4":"Waxy skin",
-  "picture": "apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University,[12] using 'Golden Delicious'.[13] It had about 57,000 genes, the highest number of any plant genome studied to date[14] and more genes than the human genome (about 30,000).[15] This new understanding of the apple genome will help scientists identify",
+  {
+    "title": "Coconut",
+    "subtitle": "Fruit with many uses",
+    "char1": "Green",
+    "char2": "Round shaped",
+    "char3": "Juicy",
+    "char4": "",
+    "picture": "imagecontent/coconut2.jpg",
+    "desc1": "The coconut is not only edible but has plenty of other uses as well. Coconut water is a popular thirst-quencher. As it is enclosed in a shell, it is totally sanitised and it has some curative properties too. The Malays use it as an antidote for various ailments such as diarrhoea, nausea, high fever and measles. The fruit of an evergreen plant which grows only in the tropics, the coconut is refreshing in hot weather, tasty and boasts of many nutrients too.",
 
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China.[4][8] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+    "desc2": "You can easily get 257 mg of potassium from a 100 g serving of coconut. Besides that, it has also substantial amounts of phosphorus and calcium which are necessary for strong bones and teeth. What's more, this wonder fruit also has fair amounts of Vitamins B1, B2 and C. It is a high energy giving fruit too, providing as much as 384 kcal per 100 g edible portion.",
 
-  "sticker":"applesticker.png",
-  "nutrient1":"Total Fat",
-  "nutrient2":"Cholestrol",
-  "nutrient3":"Sodium",
-  "nutrient4":"Potassium",
-  "nutrient5":"Total Carbohydrate",
-  "nutrient6":"Protein",
-  "nutrient7":"Calories",
-  "nutrient8":"Vitamin C",
+    "sticker": "imagecontent/coconut.png",
+    "nutrient1": "Calcium",
+    "nutrient2": "Phosphorus",
+    "nutrient3": "Iron",
+    "nutrient4": "Sodium",
+    "nutrient5": "Potassium",
+    "nutrient6": "Vitamin C",
 
-  "fact1":"0.2 g",
-  "fact2":"0 mg",
-  "fact3":"1 mg",
-  "fact4":"107 mg",
-  "fact5":"14 g",
-  "fact6":"0.3 g",
-  "fact7":"52",
-  "fact8":"7 %"
-
-}
+    "fact1": "28 mg",
+    "fact2": "200 mg",
+    "fact3": "2.3 mg",
+    "fact4": "31 mg",
+    "fact5": "257 mg",
+    "fact6": "16.8 mg"
+  }
 ]

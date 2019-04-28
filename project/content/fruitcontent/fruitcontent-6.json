@@ -1,34 +1,29 @@
 [
-{
-  "title": "Apple",
-  "subtitle": "An Apple A Day Keep A doctor Away",
-  "char1": "Red",
-  "char2": "Round shaped",
-  "char3": "Juicy",
-  "char4":"Waxy skin",
-  "picture": "apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University,[12] using 'Golden Delicious'.[13] It had about 57,000 genes, the highest number of any plant genome studied to date[14] and more genes than the human genome (about 30,000).[15] This new understanding of the apple genome will help scientists identify",
+  {
+    "title": "Papaya",
+    "subtitle": "A wonder fruit",
+    "char1": "orangy yellow",
+    "char2": "long shaped",
+    "char3": "Juicy",
+    "char4": "soft",
+    "picture": "imagecontent/papaya2.jpg",
+    "desc1": "Did you know that our humble papaya is almost a wonder fruit? It is not only delicious, it is a mine of vitamins. The papaya is an excellent source of Vitamin C, outshining even the famous orange. It also has ample amounts of Vitamin A and the B-Vitamins and is fairly good source of calcium and iron. Besides this, the fruit is believed to has medicinal value too. It could be the answer to your indigestion and constipation problems.",
 
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China.[4][8] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+    "desc2": "The seeds too have their uses. The older folks believe that eating dried and powdered papaya seeds can expel worms from the body. Other parts of the papaya plant are also useful. The leaves, for example, can be heated until they are soft and used to treat rheumatism. Spread the preparation on a clean cloth and apply on the affected areas. It is also believed that the juice from the leaves or flowers can regulate menstrual flow. Some people also take the decoction for asthma. Even the latex from the trunk or unripe fruit can be used to treat wounds and skin ulcers.",
 
-  "sticker":"applesticker.png",
-  "nutrient1":"Total Fat",
-  "nutrient2":"Cholestrol",
-  "nutrient3":"Sodium",
-  "nutrient4":"Potassium",
-  "nutrient5":"Total Carbohydrate",
-  "nutrient6":"Protein",
-  "nutrient7":"Calories",
-  "nutrient8":"Vitamin C",
+    "sticker": "imagecontent/papayapng.png",
+    "nutrient1": "Protein",
+    "nutrient2": "Calcium",
+    "nutrient3": "Iron",
+    "nutrient4": "Vitamin A",
+    "nutrient5": "Vitamin B",
+    "nutrient6": "Vitamin C",
 
-  "fact1":"0.2 g",
-  "fact2":"0 mg",
-  "fact3":"1 mg",
-  "fact4":"107 mg",
-  "fact5":"14 g",
-  "fact6":"0.3 g",
-  "fact7":"52",
-  "fact8":"7 %"
-
-}
+    "fact1": "1.5 g",
+    "fact2": "11 mg",
+    "fact3": "0.7 mg",
+    "fact4": "193 mg",
+    "fact5": "0.1 mg",
+    "fact6": "71 mg"
+  }
 ]
