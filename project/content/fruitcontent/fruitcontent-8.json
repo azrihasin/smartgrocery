@@ -18,12 +18,16 @@
     "nutrient4": "Phosphorus",
     "nutrient5": "Iron",
     "nutrient6": "Vitamin C",
+    "nutrient7": "Vitamin A",
+    "nutrient8": "Vitamin B",
 
     "fact1": "0.7 g",
     "fact2": "0.3 g",
     "fact3": "22 mg",
     "fact4": "30 mg",
     "fact5": "2.5 mg",
-    "fact6": "38.6 mg"
+    "fact6": "38.6 mg",
+    "fact7": "12 mg",
+    "fact8": "6.3 mg"
   }
 ]
