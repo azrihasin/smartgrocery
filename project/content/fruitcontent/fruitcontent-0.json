@@ -7,23 +7,9 @@
   "char3": "Juicy",
   "char4":"Waxy skin",
   "picture": "imagecontent/apple.jpg",
-  "desc1":"An apple is a sweet, edible fruit produced by an apple tree.
-  Apple trees are cultivated worldwide and are the most widely grown
-   species in the genus Malus. The tree originated in Central Asia, where its wild ancestor
-   Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and
-    Europe and were brought to North America by European colonists. Apples have religious and mythological
-    significance in many cultures, including Norse, Greek and European Christian traditions.
-    Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control
-     the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics.
-      Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production.
-      Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a
-      number of organic and non-organic means. In 2010, the fruit's genome was sequenced as
-       part of research on disease control and selective breeding in apple production.",
+  "desc1":"An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.Apple trees are large if grown from seed. Generally, apple cultivars are propagated by grafting onto rootstocks, which control the size of the resulting tree. There are more than 7,500 known cultivars of apples, resulting in a range of desired characteristics. Different cultivars are bred for various tastes and use, including cooking, eating raw and cider production. Trees and fruit are prone to a number of fungal, bacterial and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.In 2010, an Italian-led consortium announced they had sequenced the complete genome of the apple in collaboration with horticultural genomicists at Washington State University, using 'Golden Delicious'. It had about 57,000 genes, the highest number of any plant genome studied to date and more genes than the human genome (about 30,000). This new understanding of the apple genome will help scientists identify",
 
-   "desc2":"Apples are mainly composed of carbs and water, and are rich in simple sugars, such as fructose, sucrose, and glucose.
-  Despite their high carbohydrate and sugar content, the glycemic index is low, ranging from 29 to 44.
-  The glycemic index is a measure of how food affects the rise in blood sugar levels after eating. Low values are associated with various health benefits.
-  Fruit often score low on the glycemic index, probably due to their high fiber and polyphenol content that helps slow down carbohydrate digestion.",
+  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and Xinjiang, China. Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
 
   "sticker":"imagecontent/applesticker.png",
   "nutrient1":"Total Fat",
