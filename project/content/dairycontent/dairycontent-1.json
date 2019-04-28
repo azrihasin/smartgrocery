@@ -7,16 +7,9 @@
   "char3": "",
   "char4":"",
   "picture": "imagecontent/butterfat.png",
-  "desc1":"Butterfat, also called Milk Fat, natural fatty constituent of cows’ milk and the chief component of butter.
-   Clear butterfat rises to the top of melted butter and may be poured off, leaving the albuminous curd and water that
-    favour the growth of organisms promoting rancidity; thus, anhydrous butterfat does not become rancid as readily as
-    butter and can be stored unrefrigerated for several months. Butterfat is used in cooking and as a component in special dishes.",
+  "desc1":"Butterfat, also called Milk Fat, natural fatty constituent of cows’ milk and the chief component of butter.Clear butterfat rises to the top of melted butter and may be poured off, leaving the albuminous curd and water that favour the growth of organisms promoting rancidity; thus, anhydrous butterfat does not become rancid as readily as butter and can be stored unrefrigerated for several months. Butterfat is used in cooking and as a component in special dishes.",
 
-  "desc2":"Ghee is the name for anhydrous butterfat in India, where it is prepared in large quantities;
-  it is commonly mixed with the milk fat of the buffalo. Ghee is the chief form of cooking oil in many Indian regional cuisines.
-  it is also used medicinally and plays a part in some Hindu religious ceremonies. Samna is the name for butterfat in Egypt,
-  where it is also prepared in large quantities.
-  it is commonly mixed with the milk fats of sheep and goats.",
+  "desc2":"Ghee is the name for anhydrous butterfat in India, where it is prepared in large quantities; it is commonly mixed with the milk fat of the buffalo. Ghee is the chief form of cooking oil in many Indian regional cuisines. it is also used medicinally and plays a part in some Hindu religious ceremonies. Samna is the name for butterfat in Egypt,where it is also prepared in large quantities.it is commonly mixed with the milk fats of sheep and goats.",
 
   "sticker":"imagecontent/butterfat.png",
   "nutrient1":"Total Fat",
