@@ -346,7 +346,7 @@
       "name": "Lamb",
       "species": "Meat",
       "characteristic": "",
-      "photo": "../image/imagemeat/lamb.jpg",
+      "photo": "../image/imagemeat/lamb.jpeg",
       "add":"../content/meatcontent/meatcontent.html",
       "id":"b",
       "value":"1"
@@ -373,7 +373,7 @@
       "name": "Rabbit",
       "species": "Meat",
       "characteristic": "",
-      "photo": "../image/imagemeat/rabbit.jpg",
+      "photo": "../image/imagemeat/rabbit.jpeg",
       "add":"../content/meatcontent/meatcontent.html",
       "id":"e",
       "value":"4"
@@ -400,7 +400,7 @@
       "name": "Venison",
       "species": "Meat",
       "characteristic": "",
-      "photo": "../image/imagemeat/venison.jpg",
+      "photo": "../image/imagemeat/venison.jpeg",
       "add":"../content/meatcontent/meatcontent.html",
       "id":"h",
       "value":"7"
@@ -409,7 +409,7 @@
       "name": "Pheasant",
       "species": "Meat",
       "characteristic": "",
-      "photo": "../image/imagemeat/pheasant.jpg",
+      "photo": "../image/imagemeat/pheasant.jpeg",
       "add":"../content/meatcontent/meatcontent.html",
       "id":"i",
       "value":"8"
