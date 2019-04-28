@@ -18,12 +18,16 @@
     "nutrient4": "Vitamin C",
     "nutrient5": "Calcium",
     "nutrient6": "Iron",
+    "nutrient7": "Sodium",
+    "nutrient8": "Phosphorus",
 
     "fact1": "45 mcg",
     "fact2": "0.07 mg",
     "fact3": "0.1 mg",
     "fact4": "15.2 mg",
     "fact5": "24 mg",
-    "fact6": "1.4 mg"
+    "fact6": "1.4 mg",
+    "fact7": "12 mg",
+    "fact8": "10 mg"
   }
 ]
