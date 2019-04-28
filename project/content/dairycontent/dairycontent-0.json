@@ -7,17 +7,9 @@
   "char3": "",
   "char4":"",
   "picture": "imagecontent/butter.png",
-  "desc1":"Butter is a popular dairy product made from cow's milk.Composed of milk fat that has been separated from other
-  milk components, it has a rich flavor and is widely used as a spread, as well as for cooking and baking.In the past few decades,
-  butter has been blamed for heart disease due to its high saturated fat content.However, butter is now widely considered healthy
-  at least when used in moderation.",
+  "desc1":"Butter is a popular dairy product made from cow's milk.Composed of milk fat that has been separated from other milk components, it has a rich flavor and is widely used as a spread, as well as for cooking and baking.In the past few decades,butter has been blamed for heart disease due to its high saturated fat content.However, butter is now widely considered healthy at least when used in moderation.",
 
-  "desc2":"The first step in butter production involves separating cream from the milk.In the past, milk was simply left standing
-   until the cream rose to the surface, at which point it was skimmed.
-   Cream rises because fat is lighter than the other milk components.Modern cream production involves a more efficient method
-   called centrifugation.Butter is then produced from cream via churning,
-    which involves shaking the cream until the milk fat or butter clumps together and separates from the liquid portion or buttermilk.
-    After the buttermilk is drained off, the butter is churned further until it becomes ready for packaging.",
+  "desc2":"The first step in butter production involves separating cream from the milk.In the past, milk was simply left standing until the cream rose to the surface, at which point it was skimmed Cream rises because fat is lighter than the other milk components.Modern cream production involves a more efficient method called centrifugation.Butter is then produced from cream via churning,which involves shaking the cream until the milk fat or butter clumps together and separates from the liquid portion or buttermilk. After the buttermilk is drained off, the butter is churned further until it becomes ready for packaging.",
 
   "sticker":"imagecontent/butter.png",
   "nutrient1":"Total Fat",
