@@ -18,12 +18,16 @@
     "nutrient4": "Sodium",
     "nutrient5": "Potassium",
     "nutrient6": "Vitamin C",
+    "nutrient7": "Vitamin A",
+    "nutrient8": "Potein",
 
     "fact1": "28 mg",
     "fact2": "200 mg",
     "fact3": "2.3 mg",
     "fact4": "31 mg",
     "fact5": "257 mg",
-    "fact6": "16.8 mg"
+    "fact6": "16.8 mg",
+    "fact7": "7 mg",
+    "fact8": "6.8 mg"
   }
 ]
