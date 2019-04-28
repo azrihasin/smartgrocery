@@ -19,6 +19,7 @@
     "nutrient5": "Phosphorus",
     "nutrient6": "Iron",
     "nutrient 7": "Protein",
+    "nutrient 8": "Soduim",
 
     "fact1": "10 mcg",
     "fact2": "1.25 mg",
@@ -26,6 +27,7 @@
     "fact4": "33 mg",
     "fact5": "15 mg",
     "fact6": "1.2 mg",
-    "fact7": "1.1 g"
+    "fact7": "1.1 g",
+    "fact8": "12 mg"
   }
 ]
