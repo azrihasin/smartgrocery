@@ -19,6 +19,7 @@
     "nutrient5": "Iron",
     "nutrient6": "Vitamin A",
     "nutrient 7": "Vitamin C",
+    "nutrient8": "Sodium",
 
     "fact1": "2.1 g",
     "fact2": "14.1 g",
@@ -26,6 +27,7 @@
     "fact4": "15 mg",
     "fact5": "0.2 mg",
     "fact6": "0 mg",
-    "fact7": "20.5 mg"
+    "fact7": "20.5 mg",
+    "fact8": "12 mg"
   }
 ]
