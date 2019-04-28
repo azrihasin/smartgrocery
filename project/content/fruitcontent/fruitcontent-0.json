@@ -7,24 +7,9 @@
   "char3": "Juicy",
   "char4":"Waxy skin",
   "picture": "imagecontent/apple.jpg",
-  "desc1":"Apples are among the most popular types of fruit in the world.
+  "desc1":"",
 
-They are the fruit of the apple tree (Malus domestica), originally from Central Asia, and are grown all over the world.
-
-Apples are high in fiber, vitamin C and various antioxidants. They are also very filling, considering their low calorie content. Studies show that eating apples can have multiple benefits for health .
-
-They taste delicious on their own and are usually eaten raw, but they are also used in various recipes, juices and drinks.
-
-There are many different types, with a variety of colors and sizes.",
-
-  "desc2":"The original wild ancestor of Malus pumila was Malus sieversii,
-  found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan,
-  Tajikistan, and Xinjiang, China. Cultivation of the species,
-  most likely beginning on the forested flanks of the Tian Shan mountains, progressed o
-  ver a long period of time and permitted secondary introgression of genes from other species
-  into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted
-   in current populations of apples being more related to crabapples than to the more morphologically
-    similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates",
+  "desc2":"",
 
   "sticker":"imagecontent/applesticker.png",
   "nutrient1":"Total Fat",
