@@ -8,17 +8,9 @@
   "char4":"Mouth that gapes back below its eye",
   "picture": "imagecontent/salmon.png",
 
-  "desc1":"Salmon varieties are usually classified by the ocean in which they are located. In the Pacific they are considered part of the genus Oncorhynchus, and in the Atlantic they belong to the genus Salmo.
-  There is only one migratory Atlantic species but five existing species of Pacific salmon: chinook (or king), sockeye (or red), coho (or silver), pink and chum.
-  Salmon flesh is typically pink but their colour can range from red to orange. The chinook and sockeye varieties are fattier than pink and chum, favourites for steaks and fillets, while coho falls somewhere in the middle.
-   Pink salmon is primarily used for canned food.
-   Chinook salmon are the largest and sockeye the smallest salmon.
-   Due to the various species parameters, cuts and fillet sizes are variable.",
+  "desc1":"Salmon varieties are usually classified by the ocean in which they are located. In the Pacific they are considered part of the genus Oncorhynchus, and in the Atlantic they belong to the genus Salmo.There is only one migratory Atlantic species but five existing species of Pacific salmon: chinook (or king), sockeye (or red), coho (or silver), pink and chum. Salmon flesh is typically pink but their colour can range from red to orange. The chinook and sockeye varieties are fattier than pink and chum, favourites for steaks and fillets, while coho falls somewhere in the middle. Pink salmon is primarily used for canned food.  Chinook salmon are the largest and sockeye the smallest salmon. Due to the various species parameters, cuts and fillet sizes are variable.",
 
-  "desc2":"Salmon can be purchased as either steaks or fillets, fresh, frozen, canned or smoked.
-   Fresh salmon should have smooth, moist skin. If it has been sold whole, its eyes should be bright and clear, not cloudy or sunken.
-   If you cannot eat the fresh salmon within a couple of days, it's best to freeze it.
-   Once frozen and thawed, it should not be refrozen.",
+  "desc2":"Salmon can be purchased as either steaks or fillets, fresh, frozen, canned or smoked. Fresh salmon should have smooth, moist skin. If it has been sold whole, its eyes should be bright and clear, not cloudy or sunken. If you cannot eat the fresh salmon within a couple of days, it's best to freeze it. Once frozen and thawed, it should not be refrozen.",
 
   "sticker":"imagecontent/salmonsticker.png",
   "nutrient1":"Calories",
