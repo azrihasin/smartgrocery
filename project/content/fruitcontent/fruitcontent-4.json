@@ -18,12 +18,16 @@
     "nutrient4": "Vitamin A",
     "nutrient5": "Thiamine",
     "nutrient6": "Vitamin C",
+    "nutrient7": "Vitamin B",
+    "nutrient8": "Sodium",
 
     "fact1": "9.2 g",
     "fact2": "2.0 mg",
     "fact3": "45 mg",
     "fact4": "224 mcg",
     "fact5": "43 mg",
-    "fact6": "1.7 mg"
+    "fact6": "1.7 mg",
+    "fact7": "12 mg",
+    "fact8": "5 mg"
   }
 ]
