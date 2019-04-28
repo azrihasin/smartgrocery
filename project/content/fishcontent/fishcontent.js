@@ -4,7 +4,7 @@ console.log( index);
 
 
 var ourRequest = new XMLHttpRequest();
-ourRequest.open('GET', 'https://azrihasin.github.io/smartgrocery/project/content/fishcontentt/fishcontent-'+index+'.json');
+ourRequest.open('GET', 'https://azrihasin.github.io/smartgrocery/project/content/fishcontent/fishcontent-'+index+'.json');
 ourRequest.onload = function() {
   if (ourRequest.status >= 200 && ourRequest.status < 400) {
     var groceryData = JSON.parse(ourRequest.responseText);
