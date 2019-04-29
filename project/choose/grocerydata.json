@@ -41,7 +41,7 @@
     "species": "Fruit",
     "characteristic": "",
     "photo": "../image/imagefruit/maize.png",
-    "add":"../content/fruitcontent/fruitcontentt.html",
+    "add":"../content/fruitcontent/fruitcontent.html",
     "id":"e",
     "value":"4"
   },
