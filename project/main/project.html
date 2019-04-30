@@ -124,8 +124,6 @@
                 for(var j=0;j<groceryData[i].length;j++){
                   if(groceryData[i][j].name == a){
 
-                    var span = document.getElementById("species");
-                    span.innerText = span.textContent = groceryData[i][j].species;
                     document.getElementById("grocery-name").textContent=groceryData[i][j].name;
                     document.getElementById("grocery-link").href=groceryData[i][j].add;
                     document.getElementById("grocery-photo").src=groceryData[i][j].photo;
