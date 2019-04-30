@@ -222,7 +222,7 @@ a {
 .trolley { left: 520px; }
 .list { left: 850px; }
 
-#rapid, #trolley, #list {
+#rapid, #trolley, #listCheck {
   position: static;
   margin-top: 70px;
   margin-left: 85px;
@@ -404,11 +404,17 @@ a {
   border: 1px solid #cfcbcc;
 }
 
-#list, #item {
+#list {
   width: 100%;
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 10px;
+}
+
+#item {
+  width: 100%;
+  height: 30px;
+  padding: 10px;
 }
 
 #list li {
