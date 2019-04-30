@@ -271,7 +271,7 @@
       "name": "Basil",
       "species": "Herbs",
       "photo": "../image/imagespice/basil.jpg",
-      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "add":"../content/spicecontent/spicecontent.html",
       "id":"a",
       "value":"0"
     },
@@ -280,7 +280,7 @@
       "species": "Herbs",
       "characteristic": "",
       "photo": "../image/imagespice/cassia.png",
-      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "add":"../content/spicecontent/spicecontent.html",
       "id":"b",
       "value":"1"
     },
@@ -289,7 +289,7 @@
       "species": "Herbs",
       "characteristic": "",
       "photo": "../image/imagespice/cilantro.png",
-      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "add":"../content/spicecontent/spicecontent.html",
       "id":"c",
       "value":"2"
     },
@@ -298,7 +298,7 @@
       "species": "Herbs",
       "characteristic":"",
       "photo": "../image/imagespice/coriander.png",
-      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "add":"../content/spicecontent/spicecontent.html",
       "id":"d",
       "value":"3"
     },
@@ -307,7 +307,7 @@
       "species": "Herbs",
       "characteristic": "",
       "photo": "../image/imagespice/cumin.png",
-      "add":"../content/vegetablescontent/vegetablescontent.html",
+      "add":"../content/spicecontent/spicecontent.html",
       "id":"e",
       "value":"4"
     }],
