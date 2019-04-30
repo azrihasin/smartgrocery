@@ -1,362 +1,96 @@
-<!DOCTYPE html>
 <html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="https://fonts.googleapis.com/css?family=Poppins:800&amp;subset=devanagari,latin-ext" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:800&amp;subset=devanagari,latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link rel="stylesheet" href="project.css">
 
-<style>
-body {
-  background: #D2B48C;
-  color: #444;
-  font-family: 'Helvetica', arial, sans-serif;
+    <link rel="icon" type="image/png" href="favicon.png">
 
-}
+    <title>Smart! Grocery</title>
+  </head>
+  <body>
+    <div class="header">
+      <div class="bgpicList"></div>
 
-
-
-
-
-.center{
-  margin:auto;
-  position: relative;
-}
-
-#smartgrocery{
-  position: absolute;
-  z-index: 5;
-  margin-top: 20px;
-  margin-left: 8%;
-
-  font-family: 'Poppins', sans-serif;
-  color:  #663300;
-  font-size: 10px;
-}
-
-#favicon{
-  position: relative;
-  width:50px;
-  height:50px;
-  z-index: 5;
-  margin-left: 45px;
-  margin-top: 37px;
-}
-
-#bg{
-  position: center;
-  filter: brightness(50%);
-  position:absolute;
-  width: 100%;
-  height:600px;
-  box-shadow: 0 0 20px 0px rgba(0,0,0,0.5);
-  z-index: 0;
-}
-
-#new{
-
-
-  left: 800px;
-  margin-top: 40px;;
-  position: absolute;
-  color: white;
-  font-size: 30px;
-
-
-}
-
-#new a{
-  color: #663300;
-  padding: 5px;
-}
-
-#new ul {
-color: #663300;
-display: inline;
-font-family: 'Open Sans', sans-serif;
-font-size: 20px;
-padding: 10px;
-
-
-}
-
-
-#new li {
-color: #663300;
-display: inline;
-font-family: 'Open Sans', sans-serif;
-font-size: 20px;
-padding: 10px;
-
-
-}
-
-#topics{
-  left: 200px;
-  margin-top: 130px;
-  position: absolute;
-  font-family: 'Poppins', sans-serif;
-  color:  #663300;
-  font-size: 80px;
-  line-height: 60px;
-
-}
-#sentences{
-  left: 200px;
-  position:absolute;
-  margin-top: 220px;
-  font-size: 20px;
-  color: white;
-  font-family: 'Open Sans', sans-serif;
-}
-
-
-.container {
-  background: #fff;
-  max-width: 600px;
-  width: 100%;
-  display: table;
-  margin: 0 auto;
-  margin-top: 400px;
-  border: 1px solid #cfcbcc;
-}
-
-.container input {
-  border: none;
-  display: block;
-  width: 98.4%;
-  line-height: 1.5;
-  padding: 8px 0 8px 10px;
-  border-bottom: 1px solid #cfcbcc;
-  outline: 0;
-}
-
-r h1 h2 {
-  text-align: center;
-  margin-bottom: 0px;
-  line-height: 1;
-}
-
- h2 {
-  color: gray;
-}
-
-.container ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.container ul li {
-  color: #899098;
-  font-weight: 400;
-  border-bottom: 1px solid #cfcbcc;
-  line-height: 1.5;
-  padding: 8px 0;
-}
-.container ul li:before {
-  content: "\25A1";
-  padding: 10px 10px;
-  font-size: 20px;
-}
-.container ul li:hover {
-  text-decoration: line-through;
-  cursor: pointer;
-}
-.container ul li:last-child {
-  border-bottom: none;
-}
-
-.container .checked {
-  color: green;
-}
-.container .checked:before {
-  content: "\2713";
-  padding: 10px 10px;
-  font-size: 20px;
-}
-.container .checked:hover {
-  text-decoration: none;
-}
-.container .checked:hover:after {
-  content: "(remove)";
-  color: tomato;
-  text-align: right;
-}
-
-.footer {
-  position: absolute;
-  margin-top: 500px;
-  padding: 1rem;
-  box-shadow: 0 0 20px 0px rgba(0,0,0,0.5);
-  background-color:#663300;
-  text-align: center;
-  width: 100%;
-  height:400px;
-  box-sizing: border-box;
-}
-
-.footer .contactbox{
-  position: absolute;
-  margin-left: 570px;
-  box-sizing: content-box;
-  width:200px;
-  height:45px;
-  border:5px solid #D2B48C ;
-  border-radius: 5px;
-
-}
-
-.footer .contacttext{
-  position: absolute;
-  color:#D2B48C;
-  font-size: 20px;
-  margin: 10px;
-  margin-left: 35px;
-  font-family: 'Open Sans', sans-serif;
-}
-
-.footer .f1{
-  color:#D2B48C;
-  margin-top: 60px;
-  font-size: 20px;
-  font-family: 'Open Sans', sans-serif;
-}
-
-.footer .f2{
-  color:#D2B48C;
-
-  font-size: 20px;
-  font-family: 'Open Sans', sans-serif;
-}
-.footer .f3{
-  color:#D2B48C;
-  margin-top: 100px;
-  font-size: 20px;
-  font-family: 'Open Sans', sans-serif;
-}
-
-.footer .f4{
-  color:#D2B48C;
-  font-size: 20px;
-  font-family: 'Open Sans', sans-serif;
-}
-
-
-</style>
-</head>
-<body>
-
-  <div class="center">
-    <div class="top">
-
-
-    </div>
-
-
-    <div id="smartgrocery">
-      <h1>SMART! <br> GROCERY</h1>
-    </div>
-
-
-
-    <ul id="new">
-      <li><a class="active" href="../main/project.html" style="text-decoration:none" >HOME</a></li>
-      <li><a href="../main/list.html" style="text-decoration:none">LIST</a></li>
-      <li><a href="../main/contact.html" style="text-decoration:none">CONTACT</a></li>
-      <li><a href="../main/about.html" style="text-decoration:none">ABOUT</a></li>
-
-    </ul>
-
-
-
-    <div class="favicon">
-      <img id="favicon"src="../main/logo.png" alt="">
-
-      <p id="topics">GROCERY LIST</p>
-      <p id="sentences">Plan early before going to supermarket<br> Fill the text box and click enter to add item to your list<br>You also can add the list using button add list at every categories</p>
-
-    </div>
-
-
-    <div class="container">
-
-      <form  action="#">
-        <input type="text" name="item" id="item" placeholder="Add New" />
-    </form>
-    <ul id="list"></ul>
-
-    </div>
-
-      <div class="footer">
-        <p class="f1">Want to suggest more groceries item?</p>
-        <p class="f2">Then contact us and email us your suggestion <br>to be evaluated by our team </p>
-      <div class="contactbox">
-        <p class="contacttext">CONTACT US</p>
-      </div>
-        <p class="f3">smartgrocery@gmail.com</p>
-        <p class="f4">53100, Selangor,International Islamic University Malaysia</p>
+      <div id="smartgrocery">
+        <img id="logo"src="logo.png" alt="">
+        <a href="project.html"><h1 id="logotext">SMART!<br>GROCERY</h1></a>
       </div>
 
+      <ul id="navbar">
+        <li><a href="project.html">HOME</a></li>
+        <li><a class="active" href="list.html">LIST</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+      </ul>
+
+      <p id="topicsList">Grocery List</p>
+      <p id="sentencesList">Plan ahead. Be smart.<br>List your items here!</p>
     </div>
 
+    <div class="containerList">
+      <form action="#">
+          <input type="text" name="item" id="item" placeholder="Add New">
+      </form>
+      <ul id="list"></ul>
+    </div>
 
-  </div>
+    <div class="footerList">
+      <p class="f1">Any suggestions for new grocery items<br>for us to add to our catalog?</p>
+      <p class="f2">Click this button and shoot us up an email for us to evaluate!</p>
 
+      <div class="contactbox"><a href="contact.html">CONTACT US</a></div>
 
+      <p class="f3">International Islamic University Malaysia, 53100, Kuala Lumpur.</p>
+    </div>
 
+    <script type="text/javascript" src="rellax.js"></script>
+    <script>
+      var itemdata= localStorage.getItem('item');
+      document.getElementById("item").value=itemdata;
 
+      (function(itemdata){
 
+        var list = document.querySelector('#list'),
+            form = document.querySelector('form'),
+            item = document.querySelector('#item');
 
+        form.addEventListener('submit', function(e){
+          e.preventDefault();
 
+          list.innerHTML += '<li>' + item.value + '</li>';
+          store();
+          item.value = "";
+        }, false)
 
+        list.addEventListener('click', function(e){
+          var t = e.target;
+          if(t.classList.contains('checked')){
+            t.parentNode.removeChild(t);
+          } else {
+            t.classList.add('checked');
+          }
+          store();
+        }, false)
 
+        function store() {
+          window.localStorage.myitems = list.innerHTML;
+        }
 
+        function getValues() {
+          var storedValues = window.localStorage.myitems;
+          if(!storedValues) {
+            list.innerHTML = "<li>Fill the text box and click enter to add list</li>";
+          }
 
-<script>
-
-var itemdata= localStorage.getItem('item');
-document.getElementById("item").value=itemdata;
-
-
-(function(itemdata){
-
-  var list = document.querySelector('#list'),
-      form = document.querySelector('form'),
-      item = document.querySelector('#item');
-
-  form.addEventListener('submit',function(e){
-    e.preventDefault();
-
-    list.innerHTML += '<li>' + item.value + '</li>';
-    store();
-    item.value = "";
-  },false)
-
-  list.addEventListener('click',function(e){
-    var t = e.target;
-    if(t.classList.contains('checked')){
-      t.parentNode.removeChild(t);
-    } else {
-      t.classList.add('checked');
-    }
-    store();
-  },false)
-
-  function store() {
-    window.localStorage.myitems = list.innerHTML;
-  }
-
-  function getValues() {
-    var storedValues = window.localStorage.myitems;
-    if(!storedValues) {
-      list.innerHTML = '<li>Fill the text box and click enter to add list</li>';
-    }
-    else {
-      list.innerHTML = storedValues;
-    }
-  }
-  getValues();
-})();
-</script>
-
-</body>
+          else {
+            list.innerHTML = storedValues;
+          }
+        }
+        getValues();
+      })();
+    </script>
+  </body>
 </html>
