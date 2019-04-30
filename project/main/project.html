@@ -111,17 +111,27 @@
             myFunction(groceryData,x);
           });
 
-          function myFunction(groceryData,x){
-            for(var i=0;i<2;i++){
-              for(var j=0;j<10;j++){
-                if(groceryData[i][j].name == x.value){
-                  document.getElementById("grocery-name").textContent=groceryData[i][j].name;
-                  document.getElementById("grocery-link").href=groceryData[i][j].add;
-                  document.getElementById("grocery-photo").src=groceryData[i][j].photo;
+            function myFunction(groceryData,x){
+
+              var string=x.value;
+              var firstLetter = string.charAt(0);
+              var uppercaseFirstLetter = string.charAt(0).toUpperCase();
+
+              var stringWithoutFirstLetter = string.slice(1);
+              var a=string.charAt(0).toUpperCase() + string.slice(1);
+
+              for(var i=0;i<groceryData.length;i++){
+                for(var j=0;j<groceryData[i].length;j++){
+                  if(groceryData[i][j].name == a){
+
+                    document.getElementById("grocery-name").textContent=groceryData[i][j].name;
+                    document.getElementById("species").innerHTML=groceryData[i][j].species;
+                    document.getElementById("grocery-link").href=groceryData[i][j].add;
+                    document.getElementById("grocery-photo").src=groceryData[i][j].photo;
+                  }
                 }
               }
-            }
-          };
+            };
         }
         else {
           console.log("We connected to the server, but it returned an error.");
