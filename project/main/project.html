@@ -24,7 +24,7 @@
       <div class="box">
         <img id="hexabg"src="../mainbackground/hexabg.png" alt="">
         <div id="grocery">
-          <a id="grocery-link" href="../content/fruitcontent/fruitcontent.html"><img id="grocery-photo" src="../image/imagefruit/apple.jpg"></a>
+          <a id="grocery-link" onclick="myFunction(0)" href="../content/fruitcontent/fruitcontent.html"><img id="grocery-photo" src="../image/imagefruit/apple.jpg"></a>
           <h2 id="grocery-name">Apple<br><span id="species">(Fruit)</span></h2>
         </div>
       </div>
@@ -127,6 +127,19 @@
                     document.getElementById("grocery-name").textContent=groceryData[i][j].name;
                     document.getElementById("grocery-link").href=groceryData[i][j].add;
                     document.getElementById("grocery-photo").src=groceryData[i][j].photo;
+                    
+                    var b=groceryData[i][j].value;
+
+                    document.getElementById("grocery-link").onclick = function() {myFunction(b)};
+
+                    function myFunction(val){
+
+
+                    var data=val;
+                    // Put the var into storage
+                    localStorage.setItem('datacontent', data);
+                    }
+
                   }
                 }
               }
@@ -142,6 +155,14 @@
       };
 
       ourRequest.send();
+      
+      function myFunction(val){
+
+          var data=val;
+          // Put the var into storage
+          localStorage.setItem('datacontent', data);
+      }
+
     </script>
   </body>
 </html>
