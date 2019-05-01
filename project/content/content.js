@@ -1,7 +1,6 @@
-var index= localStorage.getItem('datacontent');
+var index = localStorage.getItem('datacontent');
 
 console.log( index);
-
 
 var ourRequest = new XMLHttpRequest();
 ourRequest.open('GET', 'https://azrihasin.github.io/smartgrocery/project/content/fruitcontent/fruitcontent-'+index+'.json');
@@ -9,12 +8,10 @@ ourRequest.onload = function() {
   if (ourRequest.status >= 200 && ourRequest.status < 400) {
     var groceryData = JSON.parse(ourRequest.responseText);
     groceryTemplate(groceryData);
-
-
-  } else {
+  }
+  else {
     console.log("We connected to the server, but it returned an error.");
   }
-
 };
 
 ourRequest.onerror = function() {
@@ -23,9 +20,7 @@ ourRequest.onerror = function() {
 
 ourRequest.send();
 
-
-function groceryTemplate(data){
-
+function groceryTemplate(data) {
   document.getElementById("topics").textContent=data[0].title;
   document.getElementById("sentences").textContent=data[0].subtitle;
 
@@ -61,5 +56,4 @@ function groceryTemplate(data){
   document.getElementById("f6").textContent=data[0].fact7;
   document.getElementById("f7").textContent=data[0].fact7;
   document.getElementById("f8").textContent=data[0].fact8;
-
 }
