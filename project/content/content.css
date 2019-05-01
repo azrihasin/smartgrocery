@@ -197,12 +197,13 @@ box-shadow: 0 0 20px 0px rgba(0,0,0,0.5);
 margin:80px;
 }
 
-.applesticker{
+#stick{
 position: absolute;
 left: 1000px;
 top: 1400px;
+border-radius: 50%;
 z-index: 4;
-
+height:400px;
 width:400px;
 
 
