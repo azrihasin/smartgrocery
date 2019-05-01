@@ -1,12 +1,11 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html>
   <head>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<link href="https://fonts.googleapis.com/css?family=Poppins:800&amp;subset=devanagari,latin-ext" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-    <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:800&amp;subset=devanagari,latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
     <link rel="stylesheet" href="choose.css">
 
     <link rel="icon" type="image/png" href="../main/favicon.png">
@@ -14,68 +13,35 @@
     <title>Smart! Grocery</title>
   </head>
   <body>
-<div class="center">
-  <div class="top">
-      <img id="bg" src="../mainbackground/grocery.jpg" alt="" class="picturebackground">
+    <div class="header">
+      <div class="bgpic"></div>
 
-  </div>
+      <div id="smartgrocery">
+        <img id="logo"src="../main/logo.png" alt="">
+        <a href="../main/project.html"><h1 id="logotext">SMART!<br>GROCERY</h1></a>
+      </div>
 
+      <ul id="navbar">
+        <li><a href="../main/project.html">HOME</a></li>
+        <li><a href="../main/list.html">LIST</a></li>
+        <li><a href="../main/contact.html">CONTACT</a></li>
+        <li><a href="../main/about.html">ABOUT</a></li>
+      </ul>
 
-  <div id="smartgrocery">
-    <h1>SMART! <br> GROCERY</h1>
-  </div>
+      <p id="topics">Categories</p>
+      <p id="sentences">Get to know more about the item by clicking the picture of the item.<br>Otherwise, add it to your list.</p>
+    </div>
 
+    <div class="app" id="app"></div>
 
+    <div class="footer">
+      <p class="f1">Any suggestions for new grocery items<br>for us to add to our catalog?</p>
+      <p class="f2">Click this button and shoot us up an email for us to evaluate!</p>
 
-  <ul id="new">
-    <li><a class="active" href="../main/project.html" style="text-decoration:none" >HOME</a></li>
-    <li><a href="../main/list.html" style="text-decoration:none">LIST</a></li>
-    <li><a href="../main/contact.html" style="text-decoration:none">CONTACT</a></li>
-    <li><a href="../main/about.html" style="text-decoration:none">ABOUT</a></li>
+      <div class="contactbox"><a href="../main/contact.html">CONTACT US</a></div>
 
-  </ul>
-
-  <p id="topics">CATEGORIES</p>
-  <p id="sentences">Choose your item by clicking the picture of the item<br> Clicking the button list will add your item to grocery list<br>Choose Ahead</p>
-</div>
-
-<div class="favicon">
-  <img id="favicon"src="../main/logo.png" alt="">
-
-
-</div>
-
-  <div class="app" id="app"  >
-
-  </div>
-
-  <div class="footer">
-    <p class="f1">Want to suggest more groceries item?</p>
-    <p class="f2">Then contact us and email us your suggestion <br>to be evaluated by our team </p>
-  <div class="contactbox">
-    <p class="contacttext">CONTACT US</p>
-  </div>
-    <p class="f3">smartgrocery@gmail.com</p>
-    <p class="f4">53100, Selangor,International Islamic University Malaysia</p>
-  </div>
-
-</div>
-
-
-
-
-
-
-
-
+      <p class="f3">International Islamic University Malaysia, 53100, Kuala Lumpur.</p>
+    </div>
+    <script src="choose.js" charset="utf-8"></script>
   </body>
-  <script src="choose.js" charset="utf-8"></script>
-<script type="text/javascript">
-
-
-
-
-
-</script>
-
 </html>

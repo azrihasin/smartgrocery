@@ -1,4 +1,3 @@
-
 var index= localStorage.getItem('data');
 
 console.log( index);
@@ -12,15 +11,10 @@ ourRequest.onload = function() {
     var groceryData = JSON.parse(ourRequest.responseText);
     groceryTemplate(groceryData,index);
     groceryitem(groceryData,index);
-
-
-
-
-
-  } else {
+  }
+  else {
     console.log("We connected to the server, but it returned an error.");
   }
-
 };
 
 ourRequest.onerror = function() {
@@ -29,51 +23,33 @@ ourRequest.onerror = function() {
 
 ourRequest.send();
 
-
-
 var i=-1;
 
-
 function groceryTemplate(data,index) {
-
   return `
-  <div class="container">
       <div id="${data.id}" class="grocery">
-    <a href=${data.add}><img class="grocery-photo"  onclick="myFunction(${data.value})" src="${data.photo}"></a>
-    <h2 class="grocery-name">${data.name} <br><span class="species">(${data.species})</span></h2>
-
-    <a href="../main/list.html"><button type="button" id="btn" name="button" onclick="addList('${data.name}',${data.value});" >Add to list </button></a>
-
-
-        </div>
-    </div>
+        <a href=${data.add}><img class="grocery-photo" onclick="myFunction(${data.value})" src="${data.photo}"></a>
+        <h2 class="grocery-name">${data.name} <br><span class="species">(${data.species})</span></h2>
+        <a href="../main/list.html"><button type="button" id="btn" name="button" onclick="addList('${data.name}',${data.value});" >Add to list </button></a>
+      </div>
   `;
 }
 
 
 function groceryitem(data,index){
-
   document.getElementById("app").innerHTML = `
-
-
-    <h1 class="app-title"> (${data[index].length}results)</h1>
+    <h1 class="app-title"> (${data[index].length} results)</h1>
     ${data[index].map(groceryTemplate).join("")}
-
-
 `;
 }
 
-function myFunction(val){
-
-
+function myFunction(val) {
   var data=val;
   // Put the var into storage
   localStorage.setItem('datacontent', data);
 }
 
-function addList(item,val){
-
-
+function addList(item,val) {
   var data=item;
   var i=val;
   // Put the var into storage
