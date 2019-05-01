@@ -370,7 +370,7 @@
       "species": "Meat",
       "characteristic": "",
       "photo": "../image/imagemeat/duck.jpg",
-      "add":"../content/meatcontent/meatcontent.htmll",
+      "add":"../content/meatcontent/meatcontent.html",
       "id":"g",
       "value":"6"
     },
