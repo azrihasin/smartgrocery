@@ -1,0 +1,96 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:800&amp;subset=devanagari,latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link rel="stylesheet" href="project.css">
+
+    <link rel="icon" type="image/png" href="favicon.png">
+
+    <title>Smart! Grocery</title>
+  </head>
+  <body>
+    <div class="header">
+      <div class="bgpicList"></div>
+
+      <div id="smartgrocery">
+        <img id="logo"src="logo.png" alt="">
+        <a href="project.html"><h1 id="logotext">SMART!<br>GROCERY</h1></a>
+      </div>
+
+      <ul id="navbar">
+        <li><a href="project.html">HOME</a></li>
+        <li><a class="active" href="list.html">LIST</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+      </ul>
+
+      <p id="topicsList">Grocery List</p>
+      <p id="sentencesList">Plan ahead. Be smart.<br>List your items here!</p>
+    </div>
+
+    <div class="containerList">
+      <form action="#">
+          <input type="text" name="item" id="item" placeholder="Add New">
+      </form>
+      <ul id="list"></ul>
+    </div>
+
+    <div class="footerList">
+      <p class="f1">Any suggestions for new grocery items<br>for us to add to our catalog?</p>
+      <p class="f2">Click this button and shoot us up an email for us to evaluate!</p>
+
+      <div class="contactbox"><a href="contact.html">CONTACT US</a></div>
+
+      <p class="f3">International Islamic University Malaysia, 53100, Kuala Lumpur.</p>
+    </div>
+
+    <script type="text/javascript" src="rellax.js"></script>
+    <script>
+      var itemdata= localStorage.getItem('item');
+      document.getElementById("item").value=itemdata;
+
+      (function(itemdata){
+
+        var list = document.querySelector('#list'),
+            form = document.querySelector('form'),
+            item = document.querySelector('#item');
+
+        form.addEventListener('submit', function(e){
+          e.preventDefault();
+
+          list.innerHTML += '<li>' + item.value + '</li>';
+          store();
+          item.value = "";
+        }, false)
+
+        list.addEventListener('click', function(e){
+          var t = e.target;
+          if(t.classList.contains('checked')){
+            t.parentNode.removeChild(t);
+          } else {
+            t.classList.add('checked');
+          }
+          store();
+        }, false)
+
+        function store() {
+          window.localStorage.myitems = list.innerHTML;
+        }
+
+        function getValues() {
+          var storedValues = window.localStorage.myitems;
+          if(!storedValues) {
+            list.innerHTML = "<li>Fill the text box and click enter to add list</li>";
+          }
+
+          else {
+            list.innerHTML = storedValues;
+          }
+        }
+        getValues();
+      })();
+    </script>
+  </body>
+</html>
